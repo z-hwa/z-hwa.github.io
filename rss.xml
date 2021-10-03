@@ -2,13 +2,13 @@
 <rss version="2.0">
     <channel>
         <title>life for coding</title>
-        <subtitle>Z-hwA</subtitle>
+        <subtitle>learning journey</subtitle>
         <icon>http://yoursite.com/images/favicon.ico</icon>
         <link>http://yoursite.com</link>
         <author>
           <name>Z-hwA</name>
         </author>
-        <description>描述123</description>
+        <description>welcom here</description>
         <language>en</language>
         <pubDate>Sun, 03 Oct 2021 16:38:10 +0800</pubDate>
         <lastBuildDate>Sun, 03 Oct 2021 16:38:10 +0800</lastBuildDate>
