@@ -10,10 +10,334 @@
         </author>
         <description>welcom here</description>
         <language>en</language>
-        <pubDate>Sun, 03 Oct 2021 21:26:18 +0800</pubDate>
-        <lastBuildDate>Sun, 03 Oct 2021 21:26:18 +0800</lastBuildDate>
+        <pubDate>Sun, 03 Oct 2021 21:37:39 +0800</pubDate>
+        <lastBuildDate>Sun, 03 Oct 2021 21:37:39 +0800</lastBuildDate>
         <category term="关键词1" />
         <category term="关键词2" />
+        <item>
+            <guid isPermalink="true">http://yoursite.com/Unity_ML-agents%20basic/</guid>
+            <title>Unity_ML-agents basic</title>
+            <link>http://yoursite.com/Unity_ML-agents%20basic/</link>
+            <category term="-[ai]" scheme="http://yoursite.com/categories/ai/" />
+            <pubDate>Sun, 03 Oct 2021 21:37:39 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;ch1ҳm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ch1ҳm&#34;&gt;#&lt;/a&gt; ch1���ҳ]�m&lt;/h2&gt;
+&lt;p&gt;�b�ϥ�Unity���e�A�ڭ̥�������x���U��Unity��hub�A�z�LUnity hub�ڭ̯��²�檺�w�˦U�ت�����Unity�A�H�ΨϥΡC&lt;/p&gt;
+&lt;h3 id=&#34;a-untiyw&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#a-untiyw&#34;&gt;#&lt;/a&gt; A���� Untiy�w��:&lt;/h3&gt;
+&lt;h4 id=&#34;ĥb-wunity-hub&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-wunity-hub&#34;&gt;#&lt;/a&gt; �Ĥ@�B �w��Unity Hub:&lt;/h4&gt;
+&lt;p&gt;�e��Unity download�����C&lt;br /&gt;
+�s��:&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly91bml0eTNkLmNvbS9nZXQtdW5pdHkvZG93bmxvYWQ=&#34;&gt;https://unity3d.com/get-unity/download&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/UDXyvL9.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�I��Download Unity Hub�A�U�����᪽���w�˧Y�i�C���U�ӡA�ڭ̼Ȯɤ��ݭn�h�ϥΡA�]�������ζ}�ҡC&lt;/p&gt;
+&lt;h4 id=&#34;ĥgb-uunityb&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥgb-uunityb&#34;&gt;#&lt;/a&gt; �ĤG�B ���U�@��Unity�b��:&lt;/h4&gt;
+&lt;p&gt;�e��Unity ID�����C&lt;/p&gt;
+&lt;p&gt;�s��:&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pZC51bml0eS5jb20vZW4vY29udmVyc2F0aW9ucy8yZjVmYzBjMC02OTQ1LTQzMjAtOTIyZS1mMmJhYzhmZWZjMjgwMWNmP3ZpZXc9cmVnaXN0ZXI=&#34;&gt;https://id.unity.com/en/conversations/2f5fc0c0-6945-4320-922e-f2bac8fefc2801cf?view=register&lt;/span&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.imgur.com/2Zxy8hc.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�b�o�ӭ������U�@��Unity�b���A�o��Unity�b���A�����ڭ̦bUnity Hub���E���ڭ̪����v�A�q�ӯ���ϥ�Unity�C&lt;/p&gt;
+&lt;h4 id=&#34;ĥtb-v&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥtb-v&#34;&gt;#&lt;/a&gt; �ĤT�B ���v:&lt;/h4&gt;
+&lt;p&gt;�}��Unity Hub�A�I���k�W�誺����صn�J��C�b�U��|�X�{�T���A���T�����Ӭ��uUnity�|�����v�v�����ܡC�o�̧ڦ]���w�g���v�L�F�A�ҥH���ܱ��v�Y�N����C (���v���ܵu�A�]�����}�g�`�|����o�˪��T���A���ܱ��v�Y�N����C�����h�z�|�A�u�ݭn�����v�ɶ���A�����v�Y�i)�C&lt;/p&gt;
+&lt;p&gt;�I���޲z���v�A�i�J���v�����A����p�G�ݭn���s���v�]�O�ѷӥH�U�B�J�C&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/4h7gWPt.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/4AZs2Y2.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�n�J��Y�i��ܱҥηs�����v�A�p�G�S���n�J���ܡA�N�|�O�Ǧ⪺�C���U��!!!&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/23laxoi.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+���U�ӡA�ѷӧڪ��]�w�E�����v�C���U�����C&lt;/p&gt;
+&lt;p&gt;�������v�C&lt;/p&gt;
+&lt;h4 id=&#34;ĥb-wuntiy&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-wuntiy&#34;&gt;#&lt;/a&gt; �ĥ|�B �w�˹���������Untiy:&lt;/h4&gt;
+&lt;p&gt;���U�ӡA�h�X�ߦn�]�w�C&lt;/p&gt;
+&lt;p&gt;���} Unity Hub���䪺�M��W��ܦw�ˡA�i�J�w�ˤ����A�I��s�W�C�ÿ�ܧA�ݭn��Unity�����A���е{����ĳ������2020.3.0f1 (LTS)�C&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/LlafkWf.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+��ĳ�b��ܪ����ɡA��ܱa��(LTS)�r�˪������A�o�N���ۡAUnity�x��N��o�Ӫ������X���������@�A�Ӥ��|���m���C&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/qFyA6t0.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.imgur.com/enaLptF.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�Ъ &lt;code&gt;�N�A�p�G�A���q�����S����Visual Studio����b�Ĥ@��Unity�w�ˮɡA�|�h�X�@�ӤU��Visual Studio���ﶵ�A�ФĤW���C�U�@�&lt;/code&gt; �A�ڭ̱N����p��w��Visual Studio&lt;/p&gt;
+&lt;p&gt;��ܦn������A���U�@�B�C��ڭ̪�Untiy�ݭn�Ϊ������Ұ��t�m�A�o�̧ڪ��t�m����}�o(IOS�BAndroid�BWindows)�����ΡC�b����ML-agents���е{���A�u�ݭn�Ψ�Windows�Y�i�C&lt;/p&gt;
+&lt;p&gt;��ܧ�����A�K�|�۰ʶ}�l�U���H�Φw�ˡA�p�G���Ĩ��U��Android Studio���P�ǭ̡A�Ш�B�����A�ǲߦp��t�mAndroid Studio�C&lt;/p&gt;
+&lt;h3 id=&#34;b-visual-studiow&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#b-visual-studiow&#34;&gt;#&lt;/a&gt; B���� Visual Studio�w��&lt;/h3&gt;
+&lt;p&gt;����A��Untiy�۰ʦw�˨�̫᪺�ɭԡA�|���Xvisual studio���w�ˤ޾ɡA�N��ۥL���A�ÿ�ܤU�誺�t�m�Y�i�C&lt;/p&gt;
+&lt;p&gt;�p�G�S�����X�ӡA�N�b�}�l�j�Mvisual studio installer�I�}�L�A�ھڥL���n�D�ާ@�C&lt;/p&gt;
+&lt;p&gt;���ӬO���}������A�N�|�b���X�ӡA�o�ӮɭԿ�ܭק�A�ӵۤU�����B�J���U�h�C&lt;/p&gt;
+&lt;h4 id=&#34;ĥb-o&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-o&#34;&gt;#&lt;/a&gt; �Ĥ@�B �}�o����:&lt;/h4&gt;
+&lt;p&gt;�b�o�̧ڭ̿��Unity�Y�i�C�p�G����L���{���y���}�o�ݨD�A�A�w�˨�L�����ҧY�i�C&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/ClD4kc1.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+��n����A�I���k�U��������Y�i�A�]���ڪ��w�g�w�˦n�F�A�ҥH�r�ˬO�ק�A�A�̪����ӷ|���@�ˡC&lt;/p&gt;
+&lt;p&gt;���U�ӡA����Unity�H��Visual Studio�����w�ˡC&lt;/p&gt;
+&lt;h3 id=&#34;c-thwⶵwwt꧹ahθnxɥsb&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#c-thwⶵwwt꧹ahθnxɥsb&#34;&gt;#&lt;/a&gt; C���� �T�{�H�W�ⶵ���w�˳��w�T�꧹���A�H�θ}���N�X�ɥ��\��s�b&lt;/h3&gt;
+&lt;h4 id=&#34;ĥb&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb&#34;&gt;#&lt;/a&gt; �Ĥ@�B �˴�:&lt;/h4&gt;
+&lt;p&gt;�̫᪺�]�w�A�����ڭ̥��}�A�U����Unity�A��ܷs�M�סA���3D�M�סA�R�W�A�إߡC&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/TiX33wF.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.imgur.com/OCPDdrw.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+���U�ӡA�|�۰ʶi�JUnity����¦�����A�b�᭱�����`�|���Цp��ϥΡA&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/wGwhnnR.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�M��A�I���W�誺 Edit�APreferences�A�i�JPreferences�����C&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/7VKx3Xu.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�M��A�I��Extemal Tools�A�NExternal Scripts Edito�����w�]�ﶵ�A�קאּ�A��Visual Studio�����A�ڳo�̿��2019�C������Y�i����Preferences�����C&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/8WC8hZG.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�{�b�����ڭ̫إߤ@�Ӹ}���bAssets���C&lt;/p&gt;
+&lt;p&gt;�bAssets�ϰ줤���U�ƹ��k��ACreate�AC#Script�C�������A�|�۰ʥ��}Visual Studio�åi�H�ݨ��H�U�w�]�}���C&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/GM8mjr6.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�и�ۧڥ��Wpublic ga���r�A�p�G�b�A��J���L�{���A���]�X�ڮئ����r��(GameObject)�A����N�����]�w�F�C&lt;/p&gt;
+&lt;p&gt;�p�G����L���D�A�i�H�V�ڴ��ݡA�άO��H�U�ѦҼv�����A���s�]�w�@���C&lt;br /&gt;
+�ѦҼv��:&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1XbnMtRFpiTXlJdw==&#34;&gt;https://www.youtube.com/watch?v=Wns-DZbMyIw&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;���ߧA�A����Unity��¦���ҳ]�w�A�����F�H�W�B�J���A�A�{�b�w�g��W�����@�W�}�o�̪��Ĥ@�B����F�C&lt;/p&gt;
+&lt;h3 id=&#34;d-ml-agentsҳmцbdҫmפiauch2aaҥӱmסaaӱo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#d-ml-agentsҳmцbdҫmפiauch2aaҥӱmסaaӱo&#34;&gt;#&lt;/a&gt; D���� ML-agents���ҳ]�m(�Цb�����d�Ҫ��M�פ��i��A�u������ch2��A�����A�}�Ҥ@�ӱM�סA�A�^�Ӱ��o��)&lt;/h3&gt;
+&lt;h4 id=&#34;ĺsb-2z&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĺsb-2z&#34;&gt;#&lt;/a&gt; �Ĺs�B ²�z:&lt;/h4&gt;
+&lt;p&gt;�ӳ������e�ѦҤFUnity�x��^����ɥH��Code Monkey�j���bYoutube��&amp;quot;How to use Machine Learning AI in Unity! (ML-Agents)&amp;quot;�v���A�]���A�p�G�A���&lt;sup&gt;���٤����A����ګ�ĳ�A�ۤv�h�ݭ&lt;/sup&gt;����ɥH�έ�v���A�H����½Ķ�W�����D�C&lt;/p&gt;
+&lt;h4 id=&#34;ĥb-ݾ&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-ݾ&#34;&gt;#&lt;/a&gt; �Ĥ@�B ���}�׺ݾ�:&lt;/h4&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/d2IP1xg.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�b�}�l�������A�j�MCMD�A�ÿ�ܩR�O���ܦr��(CMD)�C&lt;/p&gt;
+&lt;p&gt;���U�Ӫ����O��J�A�����ȮɨS���Ϥ��䴩�A��ĳ�f�t�v������01:22~10:10�C&lt;/p&gt;
+&lt;h4 id=&#34;ĥgb-ijڭ̪mפ&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥgb-ijڭ̪mפ&#34;&gt;#&lt;/a&gt; �ĤG�B �i�J�ڭ̪��M�פ�:&lt;/h4&gt;
+&lt;p&gt;���׺ݾ��A���ʨ�Q�n�ΨӰV�mAI��Unity�M�סC&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/nJdUKdg.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�b&amp;quot;&amp;gt;&amp;quot;���e���O�ڭ̪��׺ݾ��{�b�����|�A�бN�����ʨ�A��Unity�M�ת���m�A�ڪ�Unity�M�צW�r�OAITrain_set�C�]���A�ϥ�cd (���|)�A�i�J�C&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cd (���|) //cd C:\Users\Lenovo\AITrain_set
+cd .. //�i�H�^��W�@�h��m
+
+�ϥήɰO�o�ثe�Ҧb���Ӧ�m�&amp;#125;�l
+�W��רҤ��A�ڭ̪����m�OC:\Users\Lenovo�A�]����cd AITrain_set�A�_�h�|�����C
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;ĥtb-pythonu&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥtb-pythonu&#34;&gt;#&lt;/a&gt; �ĤT�B python�U��:&lt;/h4&gt;
+&lt;p&gt;���ۿ�Jpython&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/VvisJQh.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;�p�G�w�g���w��python�A����N&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;exit() 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;�Xpython�N��F�C&lt;/p&gt;
+&lt;p&gt;�p�G�S���|�u�XMicrosoft Store�������A�b���ؤU��python3.7�N��F&lt;br /&gt;
+&lt;img data-src=&#34;https://i.imgur.com/ILHp8KE.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;ĥb-w&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-w&#34;&gt;#&lt;/a&gt; �ĥ|�B �W�[��������:&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;python -m venv venv 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/PbHjj70.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�p�G�A�{�b���}�A��Unity�M�׷|�o�{���@�ӥs��venv����Ƨ��w�g�X�{�F�A���N�O�ڭ̪��������ҡC&lt;/p&gt;
+&lt;p&gt;����A�ڭ̩ҥH�����ҳ��O�˦b�o�ӵ������Ҥ��A�H�����v�T��ڭ̹q��������L�{�����B�@�C&lt;/p&gt;
+&lt;h4 id=&#34;ĥb-ұɻ&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-ұɻ&#34;&gt;#&lt;/a&gt; �Ĥ��B �Ұʵ�������:&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;venv\Scripts\activate
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;��J��A�A�|�ݨ�ڭ̪����|�̫e��X�{(venv)�A�o�˴N�����F�C&lt;/p&gt;
+&lt;h4 id=&#34;ĥb-ɯpip&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-ɯpip&#34;&gt;#&lt;/a&gt; �Ĥ��B �ɯ�pip:&lt;/h4&gt;
+&lt;p&gt;pip�����U�ڭ̤U���@���B�~���\��μҲաA�b�ϥΤ��e�A�ڭ̥��������L�ɯšC&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;python -m pip install --upgrade pip
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;ĥcb-utorch&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥcb-utorch&#34;&gt;#&lt;/a&gt; �ĤC�B �U��Torch:&lt;/h4&gt;
+&lt;p&gt;Torch���ѵ��ڭ̹B������ǲߪ���Ǯج[�A�κ٤����򥻺⦡�����A�ڬO�o��z�Ѫ��C&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pip install torch==1.7.0 -f https://download.pytorch.org/whl/torch_stable.html
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;ĥkb-uml-agents&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥkb-uml-agents&#34;&gt;#&lt;/a&gt; �ĤK�B �U��ML-agents:&lt;/h4&gt;
+&lt;p&gt;�o�N�O�ڭ̦bUnity���ϥΪ�AI�V�m�������ҲաC&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pip install mlagents //�p�G�X�&amp;#123;���~�T�����ܡA�ШϥΤU���o�@��
+pip install mlagents --use-feature=2020-resolver
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;ĥeb-լo_u&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥeb-լo_u&#34;&gt;#&lt;/a&gt; �ĤE�B ���լO�_���\�U��:&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;mlagents-learn --help
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;�p�G���ܦh�Ϊk���ܥX�{�A�B�S���X�{ERROR�άO���P�C�⪺���~�T���A���N�����F�C&lt;/p&gt;
+&lt;p&gt;�X���ѨM��k�A�ڦ��ɶ��A�ɤW...&lt;/p&gt;
+&lt;h4 id=&#34;ĥqb-unity-packagej&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥqb-unity-packagej&#34;&gt;#&lt;/a&gt; �ĤQ�B Unity package���J:&lt;/h4&gt;
+&lt;p&gt;���} Unity�A�b�W�誺�ﶵ�����window&amp;gt;package manager�A�i�J�ӭ�����A��ܥk�W�v�������A���advanced project setting�A���}�ӭ�����A�Ŀ�enable preview package�A�^��package manager�����A���mlagents 1.6�U���C&lt;/p&gt;
+&lt;p&gt;�p�G�S�����1.6�����A�i�e���U�������A�Ӱ��C&lt;/p&gt;
+&lt;p&gt;�е{(�����w��com.unity.ml-agentsUnity�n��]�N�n):&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1VuaXR5LVRlY2hub2xvZ2llcy9tbC1hZ2VudHMvYmxvYi9tYWluL2RvY3MvSW5zdGFsbGF0aW9uLm1kP2ZiY2xpZD1Jd0FSM3ZxUUgteTA5aVlxRUVWQVBTOElWYU5ENG15LUwtbkhwWHg5WDRjQ0p0cjF5eHVTRmphSEtTeGNrI2FkdmFuY2VkLWxvY2FsLWluc3RhbGxhdGlvbi1mb3ItZGV2ZWxvcG1lbnQ=&#34;&gt;https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Installation.md?fbclid=IwAR3vqQH-y09iYqEEVAPS8IVaND4my-L-nHpXx9X4cCJtr1yxuSFjaHKSxck#advanced-local-installation-for-development&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;�U���I:&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1VuaXR5LVRlY2hub2xvZ2llcy9tbC1hZ2VudHM/ZmJjbGlkPUl3QVIyWTBOcUlZaGEyVGhJbVlvRXc4MVRVOExyYUZzX2w1MzlNcUIwNXRHbGhoRUJNdlJMb044bTgtX3c=&#34;&gt;https://github.com/Unity-Technologies/ml-agents?fbclid=IwAR2Y0NqIYha2ThImYoEw81TU8LraFs_l539MqB05tGlhhEBMvRLoN8m8-_w&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ch2mإ&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ch2mإ&#34;&gt;#&lt;/a&gt; ch2�M�׫إ�&lt;/h2&gt;
+&lt;p&gt;�{�b�����FA�BB�BC���������Ұt�m��A�ڭ̥i�H�����}�l�إߧڭ̪�ml-agents�M�סA�b�o�̡A�ڱN�إߤ@�ӳ�²�檺�d�ҡA&amp;quot;�l�ܤp�y&amp;quot;�C&lt;/p&gt;
+&lt;p&gt;�p�G�A���^���O�������ܡA����]�i�H�e��Code Monkey�j���bYoutube��&amp;quot;How to use Machine Learning AI in Unity! (ML-Agents)&amp;quot;�[�ݧ��㪩�v���C&lt;/p&gt;
+&lt;p&gt;�v���s��:&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly95b3V0dS5iZS96UEZVMzB0YnlLcw==&#34;&gt;https://youtu.be/zPFU30tbyKs&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;a-إ3dm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#a-إ3dm&#34;&gt;#&lt;/a&gt; A���� �إ�3D�M��&lt;/h3&gt;
+&lt;p&gt;�ݧڰ����v���a!!!&lt;br /&gt;
+�v���s��(���e��A�r�˫ܲM���A�S�r��):&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly95b3V0dS5iZS9oWXJZby11NGxvcw==&#34;&gt;https://youtu.be/hYrYo-u4los&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;b-lvm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#b-lvm&#34;&gt;#&lt;/a&gt; B���� �}�l�V�m&lt;/h3&gt;
+&lt;h4 id=&#34;ĥb-ұm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-ұm&#34;&gt;#&lt;/a&gt; �Ĥ@�B �}�ұM��:&lt;/h4&gt;
+&lt;p&gt;���}�ڭ̫ئn��Unity�M��&lt;/p&gt;
+&lt;h4 id=&#34;ĥgb-cmd&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥgb-cmd&#34;&gt;#&lt;/a&gt; �ĤG�B ���}CMD:&lt;/h4&gt;
+&lt;p&gt;���}CMD�A�i�J�M�ש��U�C&lt;/p&gt;
+&lt;h4 id=&#34;ĥtb-ұɻ&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥtb-ұɻ&#34;&gt;#&lt;/a&gt; �ĤT�B �Ұʵ�������:&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;venv\Scripts\activate
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;ĥb-lvm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-lvm&#34;&gt;#&lt;/a&gt; �ĥ|�B �}�l�V�m:&lt;/h4&gt;
+&lt;h5 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;�`�N:�V�m���e�нT�O�A��Behavior Name�M.yaml�ɤ����W�r�@�ˡC
+    �V�m�Ҧ���Default
+    
+�w�]�V�m�ɤU���s��:https://drive.google.com/file/d/1AuOIvefzJO_kFDcfKNLIJELsVSeiXtAD/view?usp=sharing
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;�p�G�A�S���w�]���V�m��(�i�DAI���V�m)�A����N�|�ιw�]���V�m�ɥh��&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mlagents-learn --run-id=(�ͦ����ɮצW�r) //mlagents-learn --run-id=Goal
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;�p�G�A�����ܡA�N�ϥΤU���o��&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mlagents-learn (yaml�ɪ����|) --run-id=(�ͦ����ɮצW�r) //mlagents-learn config/MoveToGoal.yaml --run-id=Goal
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;��J����A�^��Unity���U�}�l��A�K�|�}�l�V�m�F(�O�oAI���Ҧ��n�אּDefault)&lt;/p&gt;
+&lt;h4 id=&#34;ĥb-vmƭo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-vmƭo&#34;&gt;#&lt;/a&gt; �Ĥ��B ���}�V�m��ƭ��O&lt;/h4&gt;
+&lt;p&gt;�A�}�Ҥ@��CMD�A�i�J�������ҫ�A��J�C&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;tensorboard --logdir results
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;�A��^����Ƥ��|�X�{�@�q���}�A�ƻs�A���}�A���s�����A�K�W�A�N�|�i�J�����ƪ������F�C&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/ai/Unity_ML-agents%20basic/</guid>
+            <title>Unity_ML-agents basic</title>
+            <link>http://yoursite.com/ai/Unity_ML-agents%20basic/</link>
+            <category term="-[ai]" scheme="http://yoursite.com/categories/ai/" />
+            <pubDate>Sun, 03 Oct 2021 21:37:39 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;ch1ҳm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ch1ҳm&#34;&gt;#&lt;/a&gt; ch1���ҳ]�m&lt;/h2&gt;
+&lt;p&gt;�b�ϥ�Unity���e�A�ڭ̥�������x���U��Unity��hub�A�z�LUnity hub�ڭ̯��²�檺�w�˦U�ت�����Unity�A�H�ΨϥΡC&lt;/p&gt;
+&lt;h3 id=&#34;a-untiyw&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#a-untiyw&#34;&gt;#&lt;/a&gt; A���� Untiy�w��:&lt;/h3&gt;
+&lt;h4 id=&#34;ĥb-wunity-hub&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-wunity-hub&#34;&gt;#&lt;/a&gt; �Ĥ@�B �w��Unity Hub:&lt;/h4&gt;
+&lt;p&gt;�e��Unity download�����C&lt;br /&gt;
+�s��:&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly91bml0eTNkLmNvbS9nZXQtdW5pdHkvZG93bmxvYWQ=&#34;&gt;https://unity3d.com/get-unity/download&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/UDXyvL9.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�I��Download Unity Hub�A�U�����᪽���w�˧Y�i�C���U�ӡA�ڭ̼Ȯɤ��ݭn�h�ϥΡA�]�������ζ}�ҡC&lt;/p&gt;
+&lt;h4 id=&#34;ĥgb-uunityb&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥgb-uunityb&#34;&gt;#&lt;/a&gt; �ĤG�B ���U�@��Unity�b��:&lt;/h4&gt;
+&lt;p&gt;�e��Unity ID�����C&lt;/p&gt;
+&lt;p&gt;�s��:&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pZC51bml0eS5jb20vZW4vY29udmVyc2F0aW9ucy8yZjVmYzBjMC02OTQ1LTQzMjAtOTIyZS1mMmJhYzhmZWZjMjgwMWNmP3ZpZXc9cmVnaXN0ZXI=&#34;&gt;https://id.unity.com/en/conversations/2f5fc0c0-6945-4320-922e-f2bac8fefc2801cf?view=register&lt;/span&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.imgur.com/2Zxy8hc.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�b�o�ӭ������U�@��Unity�b���A�o��Unity�b���A�����ڭ̦bUnity Hub���E���ڭ̪����v�A�q�ӯ���ϥ�Unity�C&lt;/p&gt;
+&lt;h4 id=&#34;ĥtb-v&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥtb-v&#34;&gt;#&lt;/a&gt; �ĤT�B ���v:&lt;/h4&gt;
+&lt;p&gt;�}��Unity Hub�A�I���k�W�誺����صn�J��C�b�U��|�X�{�T���A���T�����Ӭ��uUnity�|�����v�v�����ܡC�o�̧ڦ]���w�g���v�L�F�A�ҥH���ܱ��v�Y�N����C (���v���ܵu�A�]�����}�g�`�|����o�˪��T���A���ܱ��v�Y�N����C�����h�z�|�A�u�ݭn�����v�ɶ���A�����v�Y�i)�C&lt;/p&gt;
+&lt;p&gt;�I���޲z���v�A�i�J���v�����A����p�G�ݭn���s���v�]�O�ѷӥH�U�B�J�C&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/4h7gWPt.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/4AZs2Y2.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�n�J��Y�i��ܱҥηs�����v�A�p�G�S���n�J���ܡA�N�|�O�Ǧ⪺�C���U��!!!&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/23laxoi.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+���U�ӡA�ѷӧڪ��]�w�E�����v�C���U�����C&lt;/p&gt;
+&lt;p&gt;�������v�C&lt;/p&gt;
+&lt;h4 id=&#34;ĥb-wuntiy&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-wuntiy&#34;&gt;#&lt;/a&gt; �ĥ|�B �w�˹���������Untiy:&lt;/h4&gt;
+&lt;p&gt;���U�ӡA�h�X�ߦn�]�w�C&lt;/p&gt;
+&lt;p&gt;���} Unity Hub���䪺�M��W��ܦw�ˡA�i�J�w�ˤ����A�I��s�W�C�ÿ�ܧA�ݭn��Unity�����A���е{����ĳ������2020.3.0f1 (LTS)�C&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/LlafkWf.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+��ĳ�b��ܪ����ɡA��ܱa��(LTS)�r�˪������A�o�N���ۡAUnity�x��N��o�Ӫ������X���������@�A�Ӥ��|���m���C&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/qFyA6t0.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.imgur.com/enaLptF.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�Ъ &lt;code&gt;�N�A�p�G�A���q�����S����Visual Studio����b�Ĥ@��Unity�w�ˮɡA�|�h�X�@�ӤU��Visual Studio���ﶵ�A�ФĤW���C�U�@�&lt;/code&gt; �A�ڭ̱N����p��w��Visual Studio&lt;/p&gt;
+&lt;p&gt;��ܦn������A���U�@�B�C��ڭ̪�Untiy�ݭn�Ϊ������Ұ��t�m�A�o�̧ڪ��t�m����}�o(IOS�BAndroid�BWindows)�����ΡC�b����ML-agents���е{���A�u�ݭn�Ψ�Windows�Y�i�C&lt;/p&gt;
+&lt;p&gt;��ܧ�����A�K�|�۰ʶ}�l�U���H�Φw�ˡA�p�G���Ĩ��U��Android Studio���P�ǭ̡A�Ш�B�����A�ǲߦp��t�mAndroid Studio�C&lt;/p&gt;
+&lt;h3 id=&#34;b-visual-studiow&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#b-visual-studiow&#34;&gt;#&lt;/a&gt; B���� Visual Studio�w��&lt;/h3&gt;
+&lt;p&gt;����A��Untiy�۰ʦw�˨�̫᪺�ɭԡA�|���Xvisual studio���w�ˤ޾ɡA�N��ۥL���A�ÿ�ܤU�誺�t�m�Y�i�C&lt;/p&gt;
+&lt;p&gt;�p�G�S�����X�ӡA�N�b�}�l�j�Mvisual studio installer�I�}�L�A�ھڥL���n�D�ާ@�C&lt;/p&gt;
+&lt;p&gt;���ӬO���}������A�N�|�b���X�ӡA�o�ӮɭԿ�ܭק�A�ӵۤU�����B�J���U�h�C&lt;/p&gt;
+&lt;h4 id=&#34;ĥb-o&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-o&#34;&gt;#&lt;/a&gt; �Ĥ@�B �}�o����:&lt;/h4&gt;
+&lt;p&gt;�b�o�̧ڭ̿��Unity�Y�i�C�p�G����L���{���y���}�o�ݨD�A�A�w�˨�L�����ҧY�i�C&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/ClD4kc1.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+��n����A�I���k�U��������Y�i�A�]���ڪ��w�g�w�˦n�F�A�ҥH�r�ˬO�ק�A�A�̪����ӷ|���@�ˡC&lt;/p&gt;
+&lt;p&gt;���U�ӡA����Unity�H��Visual Studio�����w�ˡC&lt;/p&gt;
+&lt;h3 id=&#34;c-thwⶵwwt꧹ahθnxɥsb&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#c-thwⶵwwt꧹ahθnxɥsb&#34;&gt;#&lt;/a&gt; C���� �T�{�H�W�ⶵ���w�˳��w�T�꧹���A�H�θ}���N�X�ɥ��\��s�b&lt;/h3&gt;
+&lt;h4 id=&#34;ĥb&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb&#34;&gt;#&lt;/a&gt; �Ĥ@�B �˴�:&lt;/h4&gt;
+&lt;p&gt;�̫᪺�]�w�A�����ڭ̥��}�A�U����Unity�A��ܷs�M�סA���3D�M�סA�R�W�A�إߡC&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/TiX33wF.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.imgur.com/OCPDdrw.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+���U�ӡA�|�۰ʶi�JUnity����¦�����A�b�᭱�����`�|���Цp��ϥΡA&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/wGwhnnR.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�M��A�I���W�誺 Edit�APreferences�A�i�JPreferences�����C&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/7VKx3Xu.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�M��A�I��Extemal Tools�A�NExternal Scripts Edito�����w�]�ﶵ�A�קאּ�A��Visual Studio�����A�ڳo�̿��2019�C������Y�i����Preferences�����C&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/8WC8hZG.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�{�b�����ڭ̫إߤ@�Ӹ}���bAssets���C&lt;/p&gt;
+&lt;p&gt;�bAssets�ϰ줤���U�ƹ��k��ACreate�AC#Script�C�������A�|�۰ʥ��}Visual Studio�åi�H�ݨ��H�U�w�]�}���C&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/GM8mjr6.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�и�ۧڥ��Wpublic ga���r�A�p�G�b�A��J���L�{���A���]�X�ڮئ����r��(GameObject)�A����N�����]�w�F�C&lt;/p&gt;
+&lt;p&gt;�p�G����L���D�A�i�H�V�ڴ��ݡA�άO��H�U�ѦҼv�����A���s�]�w�@���C&lt;br /&gt;
+�ѦҼv��:&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1XbnMtRFpiTXlJdw==&#34;&gt;https://www.youtube.com/watch?v=Wns-DZbMyIw&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;���ߧA�A����Unity��¦���ҳ]�w�A�����F�H�W�B�J���A�A�{�b�w�g��W�����@�W�}�o�̪��Ĥ@�B����F�C&lt;/p&gt;
+&lt;h3 id=&#34;d-ml-agentsҳmцbdҫmפiauch2aaҥӱmסaaӱo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#d-ml-agentsҳmцbdҫmפiauch2aaҥӱmסaaӱo&#34;&gt;#&lt;/a&gt; D���� ML-agents���ҳ]�m(�Цb�����d�Ҫ��M�פ��i��A�u������ch2��A�����A�}�Ҥ@�ӱM�סA�A�^�Ӱ��o��)&lt;/h3&gt;
+&lt;h4 id=&#34;ĺsb-2z&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĺsb-2z&#34;&gt;#&lt;/a&gt; �Ĺs�B ²�z:&lt;/h4&gt;
+&lt;p&gt;�ӳ������e�ѦҤFUnity�x��^����ɥH��Code Monkey�j���bYoutube��&amp;quot;How to use Machine Learning AI in Unity! (ML-Agents)&amp;quot;�v���A�]���A�p�G�A���&lt;sup&gt;���٤����A����ګ�ĳ�A�ۤv�h�ݭ&lt;/sup&gt;����ɥH�έ�v���A�H����½Ķ�W�����D�C&lt;/p&gt;
+&lt;h4 id=&#34;ĥb-ݾ&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-ݾ&#34;&gt;#&lt;/a&gt; �Ĥ@�B ���}�׺ݾ�:&lt;/h4&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/d2IP1xg.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�b�}�l�������A�j�MCMD�A�ÿ�ܩR�O���ܦr��(CMD)�C&lt;/p&gt;
+&lt;p&gt;���U�Ӫ����O��J�A�����ȮɨS���Ϥ��䴩�A��ĳ�f�t�v������01:22~10:10�C&lt;/p&gt;
+&lt;h4 id=&#34;ĥgb-ijڭ̪mפ&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥgb-ijڭ̪mפ&#34;&gt;#&lt;/a&gt; �ĤG�B �i�J�ڭ̪��M�פ�:&lt;/h4&gt;
+&lt;p&gt;���׺ݾ��A���ʨ�Q�n�ΨӰV�mAI��Unity�M�סC&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/nJdUKdg.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�b&amp;quot;&amp;gt;&amp;quot;���e���O�ڭ̪��׺ݾ��{�b�����|�A�бN�����ʨ�A��Unity�M�ת���m�A�ڪ�Unity�M�צW�r�OAITrain_set�C�]���A�ϥ�cd (���|)�A�i�J�C&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cd (���|) //cd C:\Users\Lenovo\AITrain_set
+cd .. //�i�H�^��W�@�h��m
+
+�ϥήɰO�o�ثe�Ҧb���Ӧ�m�&amp;#125;�l
+�W��רҤ��A�ڭ̪����m�OC:\Users\Lenovo�A�]����cd AITrain_set�A�_�h�|�����C
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;ĥtb-pythonu&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥtb-pythonu&#34;&gt;#&lt;/a&gt; �ĤT�B python�U��:&lt;/h4&gt;
+&lt;p&gt;���ۿ�Jpython&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/VvisJQh.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;�p�G�w�g���w��python�A����N&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;exit() 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;�Xpython�N��F�C&lt;/p&gt;
+&lt;p&gt;�p�G�S���|�u�XMicrosoft Store�������A�b���ؤU��python3.7�N��F&lt;br /&gt;
+&lt;img data-src=&#34;https://i.imgur.com/ILHp8KE.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;ĥb-w&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-w&#34;&gt;#&lt;/a&gt; �ĥ|�B �W�[��������:&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;python -m venv venv 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/PbHjj70.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+�p�G�A�{�b���}�A��Unity�M�׷|�o�{���@�ӥs��venv����Ƨ��w�g�X�{�F�A���N�O�ڭ̪��������ҡC&lt;/p&gt;
+&lt;p&gt;����A�ڭ̩ҥH�����ҳ��O�˦b�o�ӵ������Ҥ��A�H�����v�T��ڭ̹q��������L�{�����B�@�C&lt;/p&gt;
+&lt;h4 id=&#34;ĥb-ұɻ&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-ұɻ&#34;&gt;#&lt;/a&gt; �Ĥ��B �Ұʵ�������:&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;venv\Scripts\activate
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;��J��A�A�|�ݨ�ڭ̪����|�̫e��X�{(venv)�A�o�˴N�����F�C&lt;/p&gt;
+&lt;h4 id=&#34;ĥb-ɯpip&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-ɯpip&#34;&gt;#&lt;/a&gt; �Ĥ��B �ɯ�pip:&lt;/h4&gt;
+&lt;p&gt;pip�����U�ڭ̤U���@���B�~���\��μҲաA�b�ϥΤ��e�A�ڭ̥��������L�ɯšC&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;python -m pip install --upgrade pip
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;ĥcb-utorch&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥcb-utorch&#34;&gt;#&lt;/a&gt; �ĤC�B �U��Torch:&lt;/h4&gt;
+&lt;p&gt;Torch���ѵ��ڭ̹B������ǲߪ���Ǯج[�A�κ٤����򥻺⦡�����A�ڬO�o��z�Ѫ��C&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pip install torch==1.7.0 -f https://download.pytorch.org/whl/torch_stable.html
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;ĥkb-uml-agents&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥkb-uml-agents&#34;&gt;#&lt;/a&gt; �ĤK�B �U��ML-agents:&lt;/h4&gt;
+&lt;p&gt;�o�N�O�ڭ̦bUnity���ϥΪ�AI�V�m�������ҲաC&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pip install mlagents //�p�G�X�&amp;#123;���~�T�����ܡA�ШϥΤU���o�@��
+pip install mlagents --use-feature=2020-resolver
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;ĥeb-լo_u&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥeb-լo_u&#34;&gt;#&lt;/a&gt; �ĤE�B ���լO�_���\�U��:&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;mlagents-learn --help
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;�p�G���ܦh�Ϊk���ܥX�{�A�B�S���X�{ERROR�άO���P�C�⪺���~�T���A���N�����F�C&lt;/p&gt;
+&lt;p&gt;�X���ѨM��k�A�ڦ��ɶ��A�ɤW...&lt;/p&gt;
+&lt;h4 id=&#34;ĥqb-unity-packagej&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥqb-unity-packagej&#34;&gt;#&lt;/a&gt; �ĤQ�B Unity package���J:&lt;/h4&gt;
+&lt;p&gt;���} Unity�A�b�W�誺�ﶵ�����window&amp;gt;package manager�A�i�J�ӭ�����A��ܥk�W�v�������A���advanced project setting�A���}�ӭ�����A�Ŀ�enable preview package�A�^��package manager�����A���mlagents 1.6�U���C&lt;/p&gt;
+&lt;p&gt;�p�G�S�����1.6�����A�i�e���U�������A�Ӱ��C&lt;/p&gt;
+&lt;p&gt;�е{(�����w��com.unity.ml-agentsUnity�n��]�N�n):&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1VuaXR5LVRlY2hub2xvZ2llcy9tbC1hZ2VudHMvYmxvYi9tYWluL2RvY3MvSW5zdGFsbGF0aW9uLm1kP2ZiY2xpZD1Jd0FSM3ZxUUgteTA5aVlxRUVWQVBTOElWYU5ENG15LUwtbkhwWHg5WDRjQ0p0cjF5eHVTRmphSEtTeGNrI2FkdmFuY2VkLWxvY2FsLWluc3RhbGxhdGlvbi1mb3ItZGV2ZWxvcG1lbnQ=&#34;&gt;https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Installation.md?fbclid=IwAR3vqQH-y09iYqEEVAPS8IVaND4my-L-nHpXx9X4cCJtr1yxuSFjaHKSxck#advanced-local-installation-for-development&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;�U���I:&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1VuaXR5LVRlY2hub2xvZ2llcy9tbC1hZ2VudHM/ZmJjbGlkPUl3QVIyWTBOcUlZaGEyVGhJbVlvRXc4MVRVOExyYUZzX2w1MzlNcUIwNXRHbGhoRUJNdlJMb044bTgtX3c=&#34;&gt;https://github.com/Unity-Technologies/ml-agents?fbclid=IwAR2Y0NqIYha2ThImYoEw81TU8LraFs_l539MqB05tGlhhEBMvRLoN8m8-_w&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ch2mإ&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ch2mإ&#34;&gt;#&lt;/a&gt; ch2�M�׫إ�&lt;/h2&gt;
+&lt;p&gt;�{�b�����FA�BB�BC���������Ұt�m��A�ڭ̥i�H�����}�l�إߧڭ̪�ml-agents�M�סA�b�o�̡A�ڱN�إߤ@�ӳ�²�檺�d�ҡA&amp;quot;�l�ܤp�y&amp;quot;�C&lt;/p&gt;
+&lt;p&gt;�p�G�A���^���O�������ܡA����]�i�H�e��Code Monkey�j���bYoutube��&amp;quot;How to use Machine Learning AI in Unity! (ML-Agents)&amp;quot;�[�ݧ��㪩�v���C&lt;/p&gt;
+&lt;p&gt;�v���s��:&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly95b3V0dS5iZS96UEZVMzB0YnlLcw==&#34;&gt;https://youtu.be/zPFU30tbyKs&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;a-إ3dm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#a-إ3dm&#34;&gt;#&lt;/a&gt; A���� �إ�3D�M��&lt;/h3&gt;
+&lt;p&gt;�ݧڰ����v���a!!!&lt;br /&gt;
+�v���s��(���e��A�r�˫ܲM���A�S�r��):&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly95b3V0dS5iZS9oWXJZby11NGxvcw==&#34;&gt;https://youtu.be/hYrYo-u4los&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;b-lvm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#b-lvm&#34;&gt;#&lt;/a&gt; B���� �}�l�V�m&lt;/h3&gt;
+&lt;h4 id=&#34;ĥb-ұm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-ұm&#34;&gt;#&lt;/a&gt; �Ĥ@�B �}�ұM��:&lt;/h4&gt;
+&lt;p&gt;���}�ڭ̫ئn��Unity�M��&lt;/p&gt;
+&lt;h4 id=&#34;ĥgb-cmd&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥgb-cmd&#34;&gt;#&lt;/a&gt; �ĤG�B ���}CMD:&lt;/h4&gt;
+&lt;p&gt;���}CMD�A�i�J�M�ש��U�C&lt;/p&gt;
+&lt;h4 id=&#34;ĥtb-ұɻ&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥtb-ұɻ&#34;&gt;#&lt;/a&gt; �ĤT�B �Ұʵ�������:&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;venv\Scripts\activate
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;ĥb-lvm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-lvm&#34;&gt;#&lt;/a&gt; �ĥ|�B �}�l�V�m:&lt;/h4&gt;
+&lt;h5 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;�`�N:�V�m���e�нT�O�A��Behavior Name�M.yaml�ɤ����W�r�@�ˡC
+    �V�m�Ҧ���Default
+    
+�w�]�V�m�ɤU���s��:https://drive.google.com/file/d/1AuOIvefzJO_kFDcfKNLIJELsVSeiXtAD/view?usp=sharing
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;�p�G�A�S���w�]���V�m��(�i�DAI���V�m)�A����N�|�ιw�]���V�m�ɥh��&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mlagents-learn --run-id=(�ͦ����ɮצW�r) //mlagents-learn --run-id=Goal
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;�p�G�A�����ܡA�N�ϥΤU���o��&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mlagents-learn (yaml�ɪ����|) --run-id=(�ͦ����ɮצW�r) //mlagents-learn config/MoveToGoal.yaml --run-id=Goal
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;��J����A�^��Unity���U�}�l��A�K�|�}�l�V�m�F(�O�oAI���Ҧ��n�אּDefault)&lt;/p&gt;
+&lt;h4 id=&#34;ĥb-vmƭo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ĥb-vmƭo&#34;&gt;#&lt;/a&gt; �Ĥ��B ���}�V�m��ƭ��O&lt;/h4&gt;
+&lt;p&gt;�A�}�Ҥ@��CMD�A�i�J�������ҫ�A��J�C&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;tensorboard --logdir results
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;�A��^����Ƥ��|�X�{�@�q���}�A�ƻs�A���}�A���s�����A�K�W�A�N�|�i�J�����ƪ������F�C&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://yoursite.com/about/</guid>
             <title>about</title>
@@ -24,24 +348,6 @@
 &lt;p&gt;preparing for the General Scholastic Ability Test&lt;br /&gt;
 welcom to this web&lt;/p&gt;
 &lt;/blockquote&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://yoursite.com/ai/hello-world/</guid>
-            <title>Hello World</title>
-            <link>http://yoursite.com/ai/hello-world/</link>
-            <category term="ai" scheme="http://yoursite.com/categories/ai/" />
-            <pubDate>Sun, 03 Oct 2021 16:38:10 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo new &lt;span class=&#34;token string&#34;&gt;&#34;My New Post&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo server&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
