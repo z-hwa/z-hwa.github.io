@@ -7,6 +7,14 @@
     "home_page_url": "http://yoursite.com",
     "items": [
         {
+            "id": "http://yoursite.com/about/",
+            "url": "http://yoursite.com/about/",
+            "title": "about",
+            "date_published": "2021-10-03T13:26:18.000Z",
+            "content_html": "<p>#A high school sthdent</p>\n",
+            "tags": []
+        },
+        {
             "id": "http://yoursite.com/ai/hello-world/",
             "url": "http://yoursite.com/ai/hello-world/",
             "title": "Hello World",

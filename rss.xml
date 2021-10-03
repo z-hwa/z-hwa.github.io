@@ -10,10 +10,18 @@
         </author>
         <description>welcom here</description>
         <language>en</language>
-        <pubDate>Sun, 03 Oct 2021 16:38:10 +0800</pubDate>
-        <lastBuildDate>Sun, 03 Oct 2021 16:38:10 +0800</lastBuildDate>
+        <pubDate>Sun, 03 Oct 2021 21:26:18 +0800</pubDate>
+        <lastBuildDate>Sun, 03 Oct 2021 21:26:18 +0800</lastBuildDate>
         <category term="关键词1" />
         <category term="关键词2" />
+        <item>
+            <guid isPermalink="true">http://yoursite.com/about/</guid>
+            <title>about</title>
+            <link>http://yoursite.com/about/</link>
+            <pubDate>Sun, 03 Oct 2021 21:26:18 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;#A high school sthdent&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://yoursite.com/ai/hello-world/</guid>
             <title>Hello World</title>
