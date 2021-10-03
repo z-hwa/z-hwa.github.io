@@ -18,7 +18,7 @@
             <guid isPermalink="true">http://yoursite.com/ai/Unity_ML-agents%20basic/</guid>
             <title>Unity_ML-agents basic</title>
             <link>http://yoursite.com/ai/Unity_ML-agents%20basic/</link>
-            <category term="-[AI-about]" scheme="http://yoursite.com/categories/AI-about/" />
+            <category term="AI-about" scheme="http://yoursite.com/categories/ai/" />
             <pubDate>Sun, 03 Oct 2021 21:37:39 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;ch1環境設置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ch1環境設置&#34;&gt;#&lt;/a&gt; ch1 環境設置&lt;/h2&gt;
 &lt;p&gt;在使用 Unity 之前，我們必須先到官網下載 Unity 的 hub，透過 Unity hub 我們能夠簡單的安裝各種版本的 Unity，以及使用。&lt;/p&gt;

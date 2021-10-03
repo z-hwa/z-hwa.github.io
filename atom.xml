@@ -170,7 +170,7 @@ pip install mlagents --use-feature=2020-resolver
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;再返回的資料中會出現一段網址，複製，打開你的瀏覽器，貼上，就會進入獲取資料的介面了。&lt;/p&gt;
 </content>
-        <category term="-[AI-about]" scheme="http://yoursite.com/categories/AI-about/" />
+        <category term="AI-about" scheme="http://yoursite.com/categories/ai/" />
         <updated>2021-10-03T13:37:39.000Z</updated>
     </entry>
     <entry>
