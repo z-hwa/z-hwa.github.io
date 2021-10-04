@@ -8,9 +8,146 @@
     <author>
       <name>Z-hwA</name>
     </author>
-    <updated>2021-10-04T14:06:16.000Z</updated>
+    <updated>2021-10-04T14:33:45.000Z</updated>
     <category term="关键词1" />
     <category term="关键词2" />
+    <entry>
+        <id>http://yoursite.com/security/AIS3-projext-Stuxnet/</id>
+        <title>AIS3_projext-Stuxnet</title>
+        <link rel="alternate" href="http://yoursite.com/security/AIS3-projext-Stuxnet/"/>
+        <content type="html">&lt;h1 id=&#34;ais3-專題資料庫&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ais3-專題資料庫&#34;&gt;#&lt;/a&gt; AIS3 專題資料庫&lt;/h1&gt;
+&lt;h1 id=&#34;ais3專題-stuxnet&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ais3專題-stuxnet&#34;&gt;#&lt;/a&gt; AIS3 專題 - Stuxnet&lt;/h1&gt;
+&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&#34;teammate&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#teammate&#34;&gt;#&lt;/a&gt; teammate&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2d1bmp5bzA4MTc=&#34;&gt;Gunjyo&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Yinxiehuang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;link&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#link&#34;&gt;#&lt;/a&gt; link&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hdHRhY2subWl0cmUub3JnLw==&#34;&gt;Mitre ATT&amp;amp;CK&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xVkV4RU5sbDNpR3BXNDdUN1pyUlp0Ujl4ZnA5V3JscHovdmlldz91c3A9c2hhcmluZw==&#34;&gt;報告 PDF&lt;/span&gt;&lt;br /&gt;
+&amp;lt;!--# 實作 --&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;震網stuxnet病毒&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#震網stuxnet病毒&#34;&gt;#&lt;/a&gt; 震網 stuxnet 病毒&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1NpbHZlclBvaXNpb24vc3R1eG5ldC1zb3VyY2UtY29kZQ==&#34;&gt;惡意軟體下載&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt; Introduction&lt;/h2&gt;
+&lt;p&gt;第一個以關鍵工業基礎設施為目標的蠕蟲，還有一種叫做 Dropper 的特洛伊木馬被安裝在裡面，目的是要將惡意軟體放在受害的電腦上。&lt;br /&gt;
+有七個漏洞分別針對的兩種不同作業係統 (WINDOWS,SIMATIC WinCC/STEP 7):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CVE-2008-4250（MS08-067）&lt;/li&gt;
+&lt;li&gt;CVE-2010-2568（MS10-046）(0Day)&lt;/li&gt;
+&lt;li&gt;CVE-2010-2729（MS10-061）(0Day)&lt;/li&gt;
+&lt;li&gt;CVE-2010-2743（MS10-073）(0Day)&lt;/li&gt;
+&lt;li&gt;CVE-2010-3338（MS10-092）(0Day)&lt;/li&gt;
+&lt;li&gt;CVE-2010-2772（0Day)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;攻擊伊朗核電廠、煉油廠、電廠、水庫...etc。&lt;br /&gt;
+(Flame 作為 Stuxnet 的前身，Flame 極為重視隱藏，sent data in smaller chunk)&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;使用以下CVE
+///MS10-046 Windows 快捷方式漏洞(CVE-2010-2568)，允許在用戶不知情下，下載random dynamic library，是windows處理標籤的漏洞(LNK)，用於傳播
+///MS08-067 RPC漏洞 (CVE-2008-4250)，使用特製RPC，以系統級權限遠程執行代碼，執行NetPathCanonicalize函數(存在邏輯錯誤)，導致緩衝區溢出(RCE)，進而掌握windows，用於網路傳播
+///MS10-061 打印機後台處理程序漏洞(CVE-2010-2729)，因windows的打印機後台程序(用戶權限設置不合理)，可透過發送打印請求，使文件傳進接口主機的%system32%目錄中，以系統權限執行代碼。
+///(CVE-2010-2772) winCC默認密碼繞過漏洞，用於刪除修改痕跡
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;目標：伊朗使用西門子控制系統的核電基礎設施&lt;br /&gt;
+被入侵後，表面上會顯示設備一切正常，而實際上會造成離心機因為高速運轉失效&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYW50aXkuY29tL3Jlc3BvbnNlL3N0dXhuZXQvUmVwb3J0X29uX3RoZV9Xb3JtX1N0dXhuZXRfQXR0YWNrLmh0bWw=&#34;&gt;綜合分析報告&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;感染流程圖&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#感染流程圖&#34;&gt;#&lt;/a&gt; 感染流程圖&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/uQRJTM2.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.imgur.com/M2zyzEW.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://i.imgur.com/zGpb0YT.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+被植入前正常的 PLC 控制流程&lt;br /&gt;
+&lt;img data-src=&#34;https://i.imgur.com/kowDgTi.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+被感染的 PLC 控制流程&lt;br /&gt;
+&lt;img data-src=&#34;https://i.imgur.com/WVJHeVq.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+生命週期&lt;br /&gt;
+&lt;img data-src=&#34;https://www.codeproject.com/KB/web-security/StuxnetMalware/01.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+ WTR4132.TMP 可用來解釋這個循環中的每一步，加載到 Explorer.exe 中的動態連結程式庫 (將再啟動時描述他是如何加載)，是現實中共享函示庫的一種方式，副檔名為.dll or .OCX or .DRV 等等。&lt;/p&gt;
+&lt;h2 id=&#34;分析wtr4131tmp&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#分析wtr4131tmp&#34;&gt;#&lt;/a&gt; 分析 WTR4131.TMP&lt;/h2&gt;
+&lt;p&gt;WTR4132.TMP 它通過在其中搜索名為 “.stub” 來開始執行。&lt;br /&gt;
+這個 &amp;quot;.stub&amp;quot; 包含主要的 stuxnet DLL 文件，也就是說包含了所有機制、檔案、功能、rootkit 等等。&lt;br /&gt;
+&lt;img data-src=&#34;https://i.imgur.com/HoegmTr.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+找到.stub 的 MZ 文件：(引用論文)&lt;br /&gt;
+&lt;img data-src=&#34;https://i.imgur.com/l7PiCsl.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+ 這部分會對要加在的 DLL 文件分配內存緩衝，還會 Paches 6 個 ntdll.dll API：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ZwMapViewOfSection&lt;/li&gt;
+&lt;li&gt;ZwCreateSection&lt;/li&gt;
+&lt;li&gt;ZwOpenFile&lt;/li&gt;
+&lt;li&gt;ZwClose&lt;/li&gt;
+&lt;li&gt;ZwQueryAttributesFile&lt;/li&gt;
+&lt;li&gt;ZwQuerySection&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;提升權限並注入&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#提升權限並注入&#34;&gt;#&lt;/a&gt; 提升權限並注入&lt;/h2&gt;
+&lt;p&gt;當主 DLL 被執行時，會檢查管理員的權限。如果不是在管理員權限運行，會執行以下兩個 0Day 漏洞:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;任務計劃程序程序漏洞（MS10-092）&lt;/li&gt;
+&lt;li&gt;內核模式驅動程序漏洞 (MS-10-073)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;ms10-061-打印機後台處理程序漏洞cve-2010-2729&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ms10-061-打印機後台處理程序漏洞cve-2010-2729&#34;&gt;#&lt;/a&gt; MS10-061 打印機後台處理程序漏洞 (CVE-2010-2729)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;復現&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9qdWVqaW4uY24vcG9zdC82ODQ0OTAzNzgyNjQ0NDQ5MjkzI2hlYWRpbmctMTU=&#34;&gt; https://juejin.cn/post/6844903782644449293#heading-15&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SOP&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;環境架設
+&lt;ul&gt;
+&lt;li&gt;攻擊機：Kali Linux 虛擬機&lt;/li&gt;
+&lt;li&gt;靶機：Windows xp sp3 虛擬機&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;靶機環境配置
+&lt;ul&gt;
+&lt;li&gt;IP 192.168.17.128&lt;br /&gt;
+&lt;img data-src=&#34;https://i.imgur.com/JtDX85u.png&#34; alt=&#34;&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Printer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Attack&lt;br /&gt;
+&lt;img data-src=&#34;https://i.imgur.com/ADaGabZ.png&#34; alt=&#34;&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;refs&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#refs&#34;&gt;#&lt;/a&gt; refs&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1BpbmdfUGlnL2FydGljbGUvZGV0YWlscy8xMDkyMTg0MzA=&#34;&gt;https://blog.csdn.net/Ping_Pig/article/details/109218430&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaWNvZGU5LmNvbS9jb250ZW50LTQtNzM0MzgyLmh0bWw=&#34;&gt;https://www.icode9.com/content-4-734382.html&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ms08-067-rpc漏洞-cve-2008-4250&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ms08-067-rpc漏洞-cve-2008-4250&#34;&gt;#&lt;/a&gt; MS08-067 RPC 漏洞 (CVE-2008-4250)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;復現&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZnJlZXNpb24uY29tL2FydGljbGUvMzgxODg3ODQxMS8=&#34;&gt;實作流程&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ms10-046-windows-快捷方式漏洞cve-2010-2568&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ms10-046-windows-快捷方式漏洞cve-2010-2568&#34;&gt;#&lt;/a&gt; MS10-046 Windows 快捷方式漏洞 (CVE-2010-2568)&lt;/h2&gt;
+&lt;p&gt;好像挖到甚麼好東西了 0.0&lt;br /&gt;
+&lt;a href=&#34;http://ith4cker.com/content/uploadfile/201804/44eb1522835054.pdf&#34;&gt;Windows Lnk Vul Analysis:From CVE-2010-2568(Stuxnet 1.0) to&lt;br /&gt;
+CVE-2017-8464(Stuxnet 3.0)&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;復現&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZnJlZXNpb24uY29tL2FydGljbGUvMjU2MTUyNzg5OS8=&#34;&gt;實作流程&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaHVhd2VpY2xvdWQuY29tL2FydGljbGVzLzEyNTUwMjAwLmh0bWw=&#34;&gt;實驗流程中缺少的 ettercap DNS 欺騙教學&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hcGsudHcvdGhyZWFkLTg3NTA0Ni0xLTEuaHRtbA==&#34;&gt; winXP iso 映像檔&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vcGNobW9uc3Rlci9wLzEyMDQxNDkwLmh0bWw=&#34;&gt; winXP iso 安裝於 VMware 教學&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;補充:&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW5weHJ6LmNvbS9uMTUwNjk3NGMyMDI5LmFzcHg=&#34;&gt;DNS 網欺原理&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;refs-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#refs-2&#34;&gt;#&lt;/a&gt; refs&lt;/h2&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2xvbmVpY2V3b2xmL1N0dXhuZXQtU291cmNl&#34;&gt;Stuxnet-Source&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL21pY3JpY3Rvci9zdHV4bmV0&#34;&gt;https://github.com/micrictor/stuxnet&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWNhZmVlLmNvbS9ibG9ncy9vdGhlci1ibG9ncy9tY2FmZWUtbGFicy9zdHV4bmV0LXVwZGF0ZS8=&#34;&gt; 漏洞資料來源&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLnRyZW5kbWljcm8uY29tLnR3Lz90YWc9c3R1eG5ldA==&#34;&gt;資安趨勢 blog&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aHVhbmxhbi56aGlodS5jb20vcC8zNzgyOTE2NDM=&#34;&gt; 网络战武器 —— 震网 (Stuxnet) 病毒&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYXBlci5zZWVidWcub3JnLzEwNDcv&#34;&gt;震网事件的九年再复盘与思考&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pdGhlbHAuaXRob21lLmNvbS50dy9hcnRpY2xlcy8xMDE4NjkwNA==&#34;&gt; [Day07] 病毒介紹 - 病毒界也有電影明星&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY29kZXByb2plY3QuY29tL2FydGljbGVzLzI0NjU0NS9zdHV4bmV0LW1hbHdhcmUtYW5hbHlzaXMtcGFwZXI=&#34;&gt;分析論文&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;ghidra反編譯&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ghidra反編譯&#34;&gt;#&lt;/a&gt; ghidra 反編譯&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9iaW5nZmVuZy50dy90aHJlYWQtMTQ4ODkxMy0xLTEuaHRtbA==&#34;&gt;基礎教學&lt;/span&gt;&lt;/p&gt;
+</content>
+        <category term="Security" scheme="http://yoursite.com/categories/security/" />
+        <updated>2021-10-04T14:33:45.000Z</updated>
+    </entry>
     <entry>
         <id>http://yoursite.com/ai/Unity-ML-agents%20material/</id>
         <title>Unity-ML-agents material</title>
