@@ -18,7 +18,7 @@
             <guid isPermalink="true">http://yoursite.com/program-develope/%E5%AE%8C%E6%95%B4%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E5%8F%8A%E8%87%AA%E8%A3%BD%E7%B0%A1%E6%98%93Buff%E7%B3%BB%E7%B5%B1-%E7%84%A1%E9%99%90%E7%B9%BC%E6%89%BF-%E9%96%8B%E7%99%BC%E7%B8%BD%E7%B5%90/</guid>
             <title>完整遊戲開發及自製簡易Buff系統-無限繼承-開發總結</title>
             <link>http://yoursite.com/program-develope/%E5%AE%8C%E6%95%B4%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E5%8F%8A%E8%87%AA%E8%A3%BD%E7%B0%A1%E6%98%93Buff%E7%B3%BB%E7%B5%B1-%E7%84%A1%E9%99%90%E7%B9%BC%E6%89%BF-%E9%96%8B%E7%99%BC%E7%B8%BD%E7%B5%90/</link>
-            <category term="program-develope" scheme="http://yoursite.com/categories/program-develope/" />
+            <category term="Program-develope" scheme="http://yoursite.com/categories/program-develope/" />
             <pubDate>Wed, 06 Oct 2021 16:19:58 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;完整遊戲開發及自製簡易buff系統-無限繼承-開發總結&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#完整遊戲開發及自製簡易buff系統-無限繼承-開發總結&#34;&gt;#&lt;/a&gt; 完整遊戲開發及自製簡易 Buff 系統 - 無限繼承 - 開發總結&lt;/h1&gt;
 &lt;h2 id=&#34;github連結&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#github連結&#34;&gt;#&lt;/a&gt; github 連結&lt;/h2&gt;
@@ -264,7 +264,7 @@ Buff 系統資料庫:&lt;br /&gt;
             <guid isPermalink="true">http://yoursite.com/security/AIS3-projext-Stuxnet/</guid>
             <title>AIS3_projext-Stuxnet</title>
             <link>http://yoursite.com/security/AIS3-projext-Stuxnet/</link>
-            <category term="security" scheme="http://yoursite.com/categories/security/" />
+            <category term="Security" scheme="http://yoursite.com/categories/security/" />
             <pubDate>Mon, 04 Oct 2021 22:33:45 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;ais3專題-stuxnet&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ais3專題-stuxnet&#34;&gt;#&lt;/a&gt; AIS3 專題 - Stuxnet&lt;/h1&gt;
 &lt;h1 id=&#34;teammate&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#teammate&#34;&gt;#&lt;/a&gt; teammate&lt;/h1&gt;
@@ -399,7 +399,7 @@ CVE-2017-8464(Stuxnet 3.0)&lt;/a&gt;&lt;/p&gt;
             <guid isPermalink="true">http://yoursite.com/ai/Unity-ML-agents%20material/</guid>
             <title>Unity-ML-agents material</title>
             <link>http://yoursite.com/ai/Unity-ML-agents%20material/</link>
-            <category term="ai" scheme="http://yoursite.com/categories/ai/" />
+            <category term="AI-about" scheme="http://yoursite.com/categories/ai/" />
             <pubDate>Mon, 04 Oct 2021 22:06:16 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;unity_ml-agents補充資料&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#unity_ml-agents補充資料&#34;&gt;#&lt;/a&gt; Unity_ml-agents 補充資料&lt;/h1&gt;
 &lt;h2 id=&#34;影片支援最好能看一看&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#影片支援最好能看一看&#34;&gt;#&lt;/a&gt; 影片支援 (最好能看一看):&lt;/h2&gt;
@@ -455,7 +455,7 @@ a beginner’s guide. Unity Blog, from &lt;span class=&#34;exturl&#34; data-url=
             <guid isPermalink="true">http://yoursite.com/ai/Unity_ML-agents%20basic/</guid>
             <title>Unity_ML-agents basic</title>
             <link>http://yoursite.com/ai/Unity_ML-agents%20basic/</link>
-            <category term="ai" scheme="http://yoursite.com/categories/ai/" />
+            <category term="AI-about" scheme="http://yoursite.com/categories/ai/" />
             <pubDate>Sun, 03 Oct 2021 21:37:39 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;ch1環境設置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ch1環境設置&#34;&gt;#&lt;/a&gt; ch1 環境設置&lt;/h2&gt;
 &lt;p&gt;在使用 Unity 之前，我們必須先到官網下載 Unity 的 hub，透過 Unity hub 我們能夠簡單的安裝各種版本的 Unity，以及使用。&lt;/p&gt;

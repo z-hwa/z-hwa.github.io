@@ -254,7 +254,7 @@ Buff 系統資料庫:&lt;br /&gt;
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXU0NDExVDdqWg==&#34;&gt;無限繼承_子彈軌跡追蹤教學影片&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="program-develope" scheme="http://yoursite.com/categories/program-develope/" />
+        <category term="Program-develope" scheme="http://yoursite.com/categories/program-develope/" />
         <updated>2021-10-06T08:19:58.000Z</updated>
     </entry>
     <entry>
@@ -389,7 +389,7 @@ CVE-2017-8464(Stuxnet 3.0)&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;ghidra反編譯&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ghidra反編譯&#34;&gt;#&lt;/a&gt; ghidra 反編譯&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9iaW5nZmVuZy50dy90aHJlYWQtMTQ4ODkxMy0xLTEuaHRtbA==&#34;&gt;基礎教學&lt;/span&gt;&lt;/p&gt;
 </content>
-        <category term="security" scheme="http://yoursite.com/categories/security/" />
+        <category term="Security" scheme="http://yoursite.com/categories/security/" />
         <updated>2021-10-04T14:33:45.000Z</updated>
     </entry>
     <entry>
@@ -445,7 +445,7 @@ introducing-ml-agents-v0-2-curriculum-learning-new-environments-andmore/?_ga=2.
 (5) Alessia Nigretti (2017, December 11). Using Machine Learning Agents Toolkit in a real game:&lt;br /&gt;
 a beginner’s guide. Unity Blog, from &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9ncy51bml0eTNkLmNvbS8yMDE3LzEyLzExL3VzaW5nLW1hY2hpbmU=&#34;&gt;https://blogs.unity3d.com/2017/12/11/using-machine&lt;/span&gt;learning-agents-in-a-real-game-a-beginners-guide&lt;/p&gt;
 </content>
-        <category term="ai" scheme="http://yoursite.com/categories/ai/" />
+        <category term="AI-about" scheme="http://yoursite.com/categories/ai/" />
         <updated>2021-10-04T14:06:16.000Z</updated>
     </entry>
     <entry>
@@ -607,7 +607,7 @@ pip install mlagents --use-feature=2020-resolver
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;再返回的資料中會出現一段網址，複製，打開你的瀏覽器，貼上，就會進入獲取資料的介面了。&lt;/p&gt;
 </content>
-        <category term="ai" scheme="http://yoursite.com/categories/ai/" />
+        <category term="AI-about" scheme="http://yoursite.com/categories/ai/" />
         <updated>2021-10-03T13:37:39.000Z</updated>
     </entry>
     <entry>
