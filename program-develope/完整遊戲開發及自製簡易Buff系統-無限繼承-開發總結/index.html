@@ -1,0 +1,154 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2"><meta name="theme-color" content="#FFF"><link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png"><link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="alternate" type="application/rss+xml" title="life for coding" href="http://yoursite.com/rss.xml"><link rel="alternate" type="application/atom+xml" title="life for coding" href="http://yoursite.com/atom.xml"><link rel="alternate" type="application/json" title="life for coding" href="http://yoursite.com/feed.json"><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext"><link rel="stylesheet" href="/css/app.css?v=0.2.5"><link rel="canonical" href="http://yoursite.com/program-develope/%E5%AE%8C%E6%95%B4%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E5%8F%8A%E8%87%AA%E8%A3%BD%E7%B0%A1%E6%98%93Buff%E7%B3%BB%E7%B5%B1-%E7%84%A1%E9%99%90%E7%B9%BC%E6%89%BF-%E9%96%8B%E7%99%BC%E7%B8%BD%E7%B5%90/"><title>完整遊戲開發及自製簡易Buff系統-無限繼承-開發總結 - Program-develope | Z-hwA = life for coding = learning journey</title><meta name="generator" content="Hexo 5.4.0"></head><body itemscope itemtype="http://schema.org/WebPage"><div id="loading"><div class="cat"><div class="body"></div><div class="head"><div class="face"></div></div><div class="foot"><div class="tummy-end"></div><div class="bottom"></div><div class="legs left"></div><div class="legs right"></div></div><div class="paw"><div class="hands left"></div><div class="hands right"></div></div></div></div><div id="container"><header id="header" itemscope itemtype="http://schema.org/WPHeader"><div class="inner"><div id="brand"><div class="pjax"><h1 itemprop="name headline">完整遊戲開發及自製簡易Buff系統-無限繼承-開發總結</h1><div class="meta"><span class="item" title="Created: 2021-10-06 16:19:58"><span class="icon"><i class="ic i-calendar"></i> </span><span class="text">Posted on</span> <time itemprop="dateCreated datePublished" datetime="2021-10-06T16:19:58+08:00">2021-10-06</time></span></div></div></div><nav id="nav"><div class="inner"><div class="toggle"><div class="lines" aria-label="Toggle navigation bar"><span class="line"></span> <span class="line"></span> <span class="line"></span></div></div><ul class="menu"><li class="item title"><a href="/" rel="start">Z-hwA</a></li></ul><ul class="right"><li class="item theme"><i class="ic i-sun"></i></li><li class="item search"><i class="ic i-search"></i></li></ul></div></nav></div><div id="imgs" class="pjax"><ul><li class="item" data-background-image="https://api.ghser.com/random/api.php?698852"></li><li class="item" data-background-image="https://api.ghser.com/random/api.php?378303"></li><li class="item" data-background-image="https://api.ghser.com/random/api.php?805207"></li><li class="item" data-background-image="https://api.ghser.com/random/api.php?499209"></li><li class="item" data-background-image="https://api.ghser.com/random/api.php?8511"></li><li class="item" data-background-image="https://api.ghser.com/random/api.php?995645"></li></ul></div></header><div id="waves"><svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto"><defs><path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"/></defs><g class="parallax"><use xlink:href="#gentle-wave" x="48" y="0"/><use xlink:href="#gentle-wave" x="48" y="3"/><use xlink:href="#gentle-wave" x="48" y="5"/><use xlink:href="#gentle-wave" x="48" y="7"/></g></svg></div><main><div class="inner"><div id="main" class="pjax"><div class="article wrap"><div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList"><i class="ic i-home"></i> <span><a href="/">Home</a></span><i class="ic i-angle-right"></i> <span class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/categories/program-develope/" itemprop="item" rel="index" title="In Program-develope"><span itemprop="name">Program-develope</span></a><meta itemprop="position" content="1"></span></div><article itemscope itemtype="http://schema.org/Article" class="post block" lang="en"><link itemprop="mainEntityOfPage" href="http://yoursite.com/program-develope/%E5%AE%8C%E6%95%B4%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E5%8F%8A%E8%87%AA%E8%A3%BD%E7%B0%A1%E6%98%93Buff%E7%B3%BB%E7%B5%B1-%E7%84%A1%E9%99%90%E7%B9%BC%E6%89%BF-%E9%96%8B%E7%99%BC%E7%B8%BD%E7%B5%90/"><span hidden itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="image" content="/images/avatar.jpg"><meta itemprop="name" content="Z-hwA"><meta itemprop="description" content="learning journey, welcom here"></span><span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="life for coding"></span><div class="body md" itemprop="articleBody"><h1 id="完整遊戲開發及自製簡易buff系統-無限繼承-開發總結"><a class="anchor" href="#完整遊戲開發及自製簡易buff系統-無限繼承-開發總結">#</a> 完整遊戲開發及自製簡易 Buff 系統 - 無限繼承 - 開發總結</h1><h2 id="github連結"><a class="anchor" href="#github連結">#</a> github 連結</h2><ul><li><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3otaHdhL1VuaXR5X0dhbWVfQWJvdXQ=">點這裡</span></li></ul><h2 id="一概要"><a class="anchor" href="#一概要">#</a> (一)	概要</h2><p>在第二款遊戲中，我的預計是要完成一款真的可以玩的遊戲，而非單單一個試驗品。因此，我決定採用無線波數這一個概念。遊戲中僅有一個場景，但在擊敗一波怪物後下一波便會出現，無限制的重複下去。而為了使這樣的遊戲充滿隨機性，以及不使人快速地感到無趣。我添加了隨機 Buff 系統，以及隨機怪物生成點等隨機要素。且透過這些 Buff 的組合，還能誕生出不同的玩法。</p><p>不過，可惜之處在於，並未曾查詢過相關於遊戲數據的書籍，以及上過相關遊戲設計課程，導致我在設計遊戲數值時，產生難度不一的情形。此外遊戲中的 Buff 也並未將機率有計畫性的分布，導致某些強力的 Buff 不斷出現，玩家強度超出預期。但這一點，也在下個遊戲中得到了改善。</p><h2 id="二遊戲玩法"><a class="anchor" href="#二遊戲玩法">#</a> (二)	遊戲玩法</h2><p>透過上下左右進行移動，滑鼠左鍵攻擊、右鍵進行衝鋒，S 鍵存檔、P 鍵暫停。每次擊敗一波後，會得到選擇 Buff 的機會。每十關 Boss 會出現一次。普通的小怪僅會透過撞擊造成傷害，但 Boss 有不同的攻擊模式。</p><p>Boss 攻擊模式，每五秒發起一次攻擊，瞬移至玩家身邊，揮刀斬擊，命中一次後，會馬上揮出第二刀，如果第二刀揮中，會再揮出第三刀。第一刀無特殊效果，第二刀命中會回復大量生命，第三刀命中會造成超強擊退。且 Boss 會召喚小怪，小怪不會發起攻擊，但每隻小怪，會為 Boss 提供強化。</p><h2 id="三腳色操作_攻擊-衝鋒腳色池"><a class="anchor" href="#三腳色操作_攻擊-衝鋒腳色池">#</a> (三)	腳色操作_攻擊、衝鋒 (腳色池)</h2><p>在這一款遊戲中，為了達成擊敗敵人的效果，我為玩家添加了更實用的攻擊方式，斬擊。透過點擊鼠標左鍵，使斬擊的動畫出現，並在斬擊的動畫上添加 Istrigger，使斬擊在接觸已放置碰撞體的敵人時，會出發，從而進行扣除敵人生命的程式。</p><p>相對的，一旦敵人的攻擊方式接觸到玩家，也會觸發玩家身上的碰撞器，從而啟動玩家身上扣除生命值的程式。</p><p>至於衝鋒的技能，事實上就是在短暫的時間內，提升玩家的移動速度，但為了造成玩家的回饋心理，因此設計了殘影這一要素，使玩家感受的到，「我衝鋒了」這一反饋。至於殘影，則使用對象池來實現，透過對象池得好處是能省下很多的運行浪費，且生成的物件可以重複利用。在不足以應付當前需要的數量時，則能再動態添加。</p><pre><code class="language-csharp=">	void Awake()  
+	    &#123;  
+	        instance = this;  
+	  
+	        //初始化對象池  
+	        FillPool();  
+	    &#125;  
+	  
+	    public void FillPool()  
+	    &#123;  
+	        for (int i = 0; i &lt; shadowCount; i++)  
+	        &#123;  
+	            var newShadow = Instantiate(shadowPrefab);  
+                newShadow.transform.SetParent(transform);  
+	  
+	            //取消啟用，返回對象池  	                                     
+	            ReturnPool(newShadow);  
+	        &#125;  
+	    &#125;  
+	  
+	    public void ReturnPool(GameObject gameObject)  
+	    &#123;  
+	        gameObject.SetActive(false);  
+	        availableObjects.Enqueue(gameObject);  
+	    &#125;  
+	  
+	    public GameObject GetFromPool()  
+	    &#123;  
+	        if(availableObjects.Count == 0)  
+	        &#123;  
+	            FillPool();  
+	        &#125;  
+	        var outShadow = availableObjects.Dequeue();  	  
+	        outShadow.SetActive(true);  
+	        
+	        return outShadow;  
+	    &#125;  
+</code></pre><p>(圖十一) 腳色池程式碼 (New RPG game\Assets\Scripts\ShadowPool.cs)。<br>腳色池作為殘影只是它的一個應用，用來作為射擊遊戲中的子彈，應該是較常見的用法。</p><p><img data-src="https://i.imgur.com/6JC4oyx.png" alt=""><br>(圖十二) 腳色衝鋒示意圖。</p><h2 id="四敵人ai"><a class="anchor" href="#四敵人ai">#</a> (四)	敵人 AI</h2><p>而敵人 AI 也在這款遊戲中被進一步強化，雖然不具備自動尋路的能力，但也能朝著玩家的座標不斷靠近。此外，也為敵人添加了隨關卡數增加，數值隨之增加的程式。</p><p>而 Boss 則是這一次我嘗試著挑戰的項目，我在 Boss 的腳本中，設計了三段式的攻擊、瞬移的移動方式以及召喚小怪的能力。</p><p>也在 Boss 的頭上增加了一個倒數計時器，以方便玩家觀察 Boss 的攻擊模式，隨著計時器數字減少，顯示的數字顏色也會更加具有危險性。</p><p><img data-src="https://i.imgur.com/4MCxOsc.png" alt=""><br>(圖十三) Boss 示意圖。</p><pre><code class="language-csharp=">	IEnumerator Ad()  
+	    &#123;  
+	        PlayerHealth player = other.gameObject.GetComponent&lt;PlayerHealth&gt;();  
+	  
+	        if (attack == 0)  
+	        &#123;  
+	            yield return new WaitForSeconds(0.1f);  
+	            Attack();  
+	            yield return new WaitForSeconds(0.4f);  
+	            if (attack == 1)  
+	            &#123;  
+	                if(hit==1)  
+	                &#123;  
+	                    PlayerHealth.hp -= atk;  
+	  
+	                    bossDamage = atk;  
+	                    GameObject.Find(&quot;Player&quot;).SendMessage(&quot;BossAttack&quot;);                     
+	                      
+	                    set = 1;  
+	                    StartCoroutine(Set());  
+	                    Attack();  
+	                    yield return new WaitForSeconds(0.4f);  
+	                    if(hit==2)  
+	                    &#123;  
+	                        PlayerHealth.hp -= atk + 5;  
+	  
+	                        bossDamage = atk + 5;  
+	                        GameObject.Find(&quot;Player&quot;).SendMessage(&quot;BossAttack&quot;);  
+	  
+	                        Boss10.hp += (atk + 5) * 35 * (ClassManager.levelNum % 10) * 6;  
+  	                        DamageNum damagable = Instantiate(damageCanvas, transform.position,       Quaternion.identity).GetComponent&lt;DamageNum&gt;();  
+	                        damagable.ShowUIDamage(Mathf.RoundToInt((atk + 5) * 10000), 0);  
+	  
+	                        Attack();  
+	                        yield return new WaitForSeconds(0.4f);  
+	                        if(hit==3)  
+	                        &#123;  
+                                PlayerHealth.hp -= Boss10_Rank1.atk + 10;  	  
+	                            bossDamage = atk + 10;  
+	                            GameObject.Find(&quot;Player&quot;).SendMessage(&quot;BossAttack&quot;);  
+	                              
+	                            hitAfter = 1;  
+	                        &#125;  
+	                    &#125;  
+	                &#125;  
+	            &#125;  
+	        &#125;  
+</code></pre><p>(圖十四) Boss 攻擊模式程式碼<br>(New RPG game\Assets\Scripts\Boss10_Rank1.cs)。</p><h2 id="五ui介面"><a class="anchor" href="#五ui介面">#</a> (五)	UI 介面</h2><p>遊戲介面同樣有暫停，除此之外，更添加了 buff 的顯示區塊，關卡的提示等。而玩家身上的血條 UI，則是透過三張不同顏色的圖片，設置成填充模式以達成。至於扣血效果的 UI 則製成了預製體，需要時調用。最後則是分數計算的顯示，跟上一款遊戲的收集櫻桃是類似的。</p><p><img data-src="https://i.imgur.com/srS8pZ6.png" alt=""><br><img data-src="https://i.imgur.com/NdThXkD.png" alt=""><br><img data-src="https://i.imgur.com/01PofLb.png" alt=""></p><p>(圖十五、十六、十七) UI 介面。<br>此外，也於遊戲中製作了預製體的扣血效果，並於怪物或玩家受到傷害時，生成於玩家或是怪物的身旁。而 Boss 身上則有額外的綠色效果，作為回血的數值。<br><img data-src="https://i.imgur.com/FMtNUT8.png" alt=""><br>(圖十八) 回復以及扣血效果。</p><h2 id="六程式碼_無限波數-buff系統-存檔系統"><a class="anchor" href="#六程式碼_無限波數-buff系統-存檔系統">#</a> (六)	程式碼_無限波數、Buff 系統、存檔系統</h2><p>為了提升遊戲的可玩性，以及使遊戲的紀錄可被儲存，我上網查詢有關於這方面的教學影片以及文章。三者之中，最容易達成的是無限波數的部分，透過程式碼中的變數調控，以檢測場上敵人的數目來決定是否進入下一波。</p><p>一旦進入下一波，再透過隨機生成的方式，隨機生成敵人到場上，每十關出現一次 Boss。</p><pre><code class="language-csharp=">	private void Update()  
+	    &#123;        
+	        if (enemy == 0) //召喚怪物  
+	        &#123;  
+	            enemyCount = (ClassManager.levelNum-1) * 1 % 5;  
+	            if(enemyCount==0)  
+	            &#123;  
+	                Appear();  
+	            &#125;  
+	  
+	            for (int i = 0; i &lt; enemyCount; i++)  
+	                Appear();  
+	            &#125;  
+	            enemy = 1;  
+	        &#125;  
+	          
+	        Record();  
+	    &#125;  
+	  
+	    void Appear() //隨機出現位置  
+	    &#123;  
+	        float x = Random.Range(0, 10);  
+	        float y = Random.Range(0, 10);  
+	  
+	        if ((ClassManager.levelNum % 10) != 1)  
+	        &#123;  
+	            point.transform.position = new Vector2(point.transform.position.x + x, point.transform.position.y + y);  
+	            Instantiate(enemyBat, point.transform.position, enemyBat.transform.rotation);  
+	            point.transform.position = new Vector2(point.transform.position.x - x, point.transform.position.y - y);  
+	            Instantiate(enemyBeast, point.transform.position, enemyBeast.transform.rotation);  
+	  
+	            nowEnemyCount += 2;  
+	        &#125;else if((ClassManager.levelNum%10)==1)  
+	        &#123;  
+	            point.transform.position = new Vector2(point.transform.position.x - x, point.transform.position.y - y);  
+	            Instantiate(boss10, point.transform.position, boss10.transform.rotation);  
+	              
+	            nowEnemyCount += 1;  
+	        &#125;  
+	    &#125;  
+	  
+	    void Record() //重新激活  
+	    &#123;  
+	        if (nowEnemyCount == 0 &amp;&amp; run == 0)  
+	        &#123;  
+	            if(score==1)  
+	            &#123;  
+	                ScoreInformation.scorePower += timeScore * 10 * ((ClassManager.levelNum / 2) + 1);  
+	                timeScore = 50;  
+	            &#125;  
+	  
+	            GameObject.Find(&quot;GameStartCanvas&quot;).SendMessage(&quot;Run&quot;);  
+	            run = 1;  
+	            score = 1;  
+	        &#125;  
+	    &#125;  
+</code></pre><p>(圖十九) 敵人生成及波數程式碼<br>(New RPG game\Assets\Scripts\EnemyAppearManager.cs)。</p><p>至於存檔機制則是因為網路上有種類繁多的教程，因此在實作過程中，沒有遇到特別多的困難。最後我選擇 PlayerPrefs 作為存檔的方式，但在下一款遊戲中，我將 PlayerPrefs、序列化：二進制、序列化：JSON、序列化：XML 都學習過了，後邊會提到。</p><pre><code class="language-csharp=">	maxHp = PlayerHealth.maxNowHp;  
+	PlayerPrefs.SetFloat(&quot;maxHp&quot;, maxHp);  
+	  
+	maxHp = PlayerPrefs.GetFloat(&quot;maxHp&quot;);  
+</code></pre><p>(圖二十) PlayerPrefs 存檔方式 (New RPG game\Assets\Scripts\Load01.cs)。</p><p>最後的 Buff 系統則是困擾了我數天，其原因在於網路上並沒有相關的教程。因此，我開始構思一個能隨機產生 Buff 並給予玩家選擇的機制。</p><p>在我看來，Buff 系統的核心有三個，資料庫、管道、生成。</p><p>資料庫中儲存有關於這個 Buff 的資料，玩家在選擇時，資料便會出現，提供玩家有關於這個 Buff 的能力。管道則是將程式裡的 Buff 系統實際顯示在遊戲屏幕上的方式，這裡我使用了 UI 以及隨機取數來完成，隨機生成三個可供選擇的 Buff。最後的生成，則是使效果生成，只需要在程式碼中修改相關的變數即可。</p><p>Buff 系統本體:<br>(New RPG game\Assets\Scripts\Buff.cs)。<br>Buff 系統資料庫:<br>(New RPG game\Assets\Scripts\BuffData.cs)。<br>在實作 Buff 機制時，遇到了十分大的挫折，光是 Buff 系統的構思，便出錯了數次，導致出現奇怪的結果。但更多的是沒有任何反應，時間也一分一秒的在減少，那時候每天都是早上 8 點起床，坐在電腦前實作到晚上 12 點。</p><p>雖然實際上的程式碼不多，似乎不需要那麼久的時間，但浪費最多時間的是重覆的試驗。</p><p>除此之外，也不斷查詢是否有相關的資料能幫助我完成這項任務，儘管最後是靠著靈光一閃解決了這個問題，但如果沒有那些天累積的知識，這個點子也不會出現。</p><p>也是在這次的 Buff 系統過後，我開始真正掌握到編寫遊戲程式的感覺，以及真正開發著一款遊戲。</p><h2 id="七子彈功能_追蹤彈"><a class="anchor" href="#七子彈功能_追蹤彈">#</a> (七)	子彈功能_追蹤彈</h2><p>這款遊戲最後要提到的就是追蹤彈的功能。在實作遊戲時，我常會到各個影片網站尋找對開發有幫助的影片，也是因此，意外的發現了有關於子彈追蹤的影片。實際上，如果要做出簡單的追蹤子彈效果，使用 Trail 就能完成。</p><p>但僅僅是子彈朝著敵人直線射擊過去，就少了一點味道，原先是不打算製作的。只是，那部影片與子彈軌跡有關，因此，在看到那個影片後，我才決定製作這一功能。</p><p>不過，這項功能的開發只算是作為研究的目的，並沒有將其實裝在遊戲中的想法，因此，實際的遊戲中需要啟動隱藏的測試按鈕，才能使用。</p><p>之所以不實裝的原因之一，是因為 Buff 系統的協調出了點問題，調適需要一段時間。其次，則是我當時對於這個功能的想法並不多，所以沒有下手大改這款遊戲，畢竟，本來這款遊戲的目的是設計為一款近戰遊戲。</p><p>以下是開啟射擊模式的方法：進入暫停介面，需要將鼠標移到黑塊的相應位置處，黑塊才會顯示。<br><img data-src="https://i.imgur.com/wZ2qkEx.png" alt=""></p><p>(圖二十一) 射擊模式開啟方法。</p><p><img data-src="https://i.imgur.com/BEag6UW.png" alt=""></p><p>(圖二十二) 射擊模式示意圖。</p><p>在這個系統中，可以透過調整角度的係數，從而實現不同的子彈軌跡，以下是另一種不同的軌跡示範。<br><img data-src="https://i.imgur.com/8r4Bcpz.png" alt=""></p><p>(圖二十三) 類似閃電的子彈軌跡示意圖。</p><pre><code class="language-csharp=">	public void Chase()  
+	    &#123;  
+	        Vector3 direction = target.transform.position - this.transform.position; //朝向目標  
+	        float ang = 360 - Mathf.Atan2(direction.x, direction.y) * Mathf.Rad2Deg; //方向向量轉角度  
+	        transform.eulerAngles = new Vector3(0, 0, ang); //角度設為對應角度  
+	  
+	        this.transform.rotation = this.transform.rotation * Quaternion.Euler(0, 0, rotationAngle);  
+	        transform.Translate(Vector3.up * bulletSpeed * Time.deltaTime);  
+	    &#125; 
+</code></pre><p>(圖二十四) 實現子彈軌跡的程式碼<br>(New RPG game\Assets\Scripts\NormalBullet.cs)。</p><p>透過在這個程式碼中調整係數，便能做到不同的子彈軌跡效果。雖然這個功能在這款遊戲裡並沒有正式加入，但也多虧這個功能的啟發，讓我有了製作下一款遊戲的念頭，製作一款射擊類遊戲。</p><h2 id="八參考資料"><a class="anchor" href="#八參考資料">#</a> (八) 參考資料</h2><ul><li><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXF0NHkxVTdhUw==">無限繼承_基礎教學影片 1</span></li><li><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVZUNHkxRzdWcQ==">無限繼承_基礎教學影片 2</span></li><li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9oWDlxRm5qZzd6dw==">無限繼承_衝鋒效果教學影片 1</span></li><li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9vc2R4T0x6Nl93Yw==">無限繼承_衝鋒效果教學影片 2</span></li><li><span class="exturl" data-url="aHR0cHM6Ly95b3V0dS5iZS9ac3ZDTnB2d1BTYw==">無限繼承_衝鋒效果教學影片 3</span></li><li><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVdKNDExNzc4Qw==">無限繼承_腳色血條 UI 教學影片</span></li><li><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXU0NDExVDdqWg==">無限繼承_子彈軌跡追蹤教學影片</span></li></ul></div><footer><div class="meta"><span class="item"><span class="icon"><i class="ic i-calendar-check"></i> </span><span class="text">Edited on</span> <time title="Modified: 2021-10-06 16:21:28" itemprop="dateModified" datetime="2021-10-06T16:21:28+08:00">2021-10-06</time> </span><span id="program-develope/完整遊戲開發及自製簡易Buff系統-無限繼承-開發總結/" class="item leancloud_visitors" data-flag-title="完整遊戲開發及自製簡易Buff系統-無限繼承-開發總結" title="Views"><span class="icon"><i class="ic i-eye"></i> </span><span class="text">Views</span> <span class="leancloud-visitors-count"></span> <span class="text">times</span></span></div><div class="reward"><button><i class="ic i-heartbeat"></i> Donate</button><p>Give me a cup of [coffee]~(￣▽￣)~*</p><div id="qr"><div><img data-src="/images/wechatpay.png" alt="Z-hwA WeChat Pay"><p>WeChat Pay</p></div><div><img data-src="/images/alipay.png" alt="Z-hwA Alipay"><p>Alipay</p></div><div><img data-src="/images/paypal.png" alt="Z-hwA PayPal"><p>PayPal</p></div></div></div><div id="copyright"><ul><li class="author"><strong>Post author: </strong>Z-hwA <i class="ic i-at"><em>@</em></i>life for coding</li><li class="link"><strong>Post link: </strong><a href="http://yoursite.com/program-develope/%E5%AE%8C%E6%95%B4%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E5%8F%8A%E8%87%AA%E8%A3%BD%E7%B0%A1%E6%98%93Buff%E7%B3%BB%E7%B5%B1-%E7%84%A1%E9%99%90%E7%B9%BC%E6%89%BF-%E9%96%8B%E7%99%BC%E7%B8%BD%E7%B5%90/" title="完整遊戲開發及自製簡易Buff系統-無限繼承-開發總結">http://yoursite.com/program-develope/完整遊戲開發及自製簡易Buff系統-無限繼承-開發總結/</a></li><li class="license"><strong>Copyright Notice: </strong>All articles in this blog are licensed under <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> unless stating additionally.</li></ul></div></footer></article></div><div class="post-nav"><div class="item left"><a href="/security/AIS3-projext-Stuxnet/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;api.ghser.com&#x2F;random&#x2F;api.php?84838" title="AIS3_projext-Stuxnet"><span class="type">Previous Post</span> <span class="category"><i class="ic i-flag"></i> Security</span><h3>AIS3_projext-Stuxnet</h3></a></div><div class="item right"></div></div><div class="wrap" id="comments"></div></div><div id="sidebar"><div class="inner"><div class="panels"><div class="inner"><div class="contents panel pjax" data-title="Contents"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#%E5%AE%8C%E6%95%B4%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E5%8F%8A%E8%87%AA%E8%A3%BD%E7%B0%A1%E6%98%93buff%E7%B3%BB%E7%B5%B1-%E7%84%A1%E9%99%90%E7%B9%BC%E6%89%BF-%E9%96%8B%E7%99%BC%E7%B8%BD%E7%B5%90"><span class="toc-number">1.</span> <span class="toc-text">完整遊戲開發及自製簡易 Buff 系統 - 無限繼承 - 開發總結</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#github%E9%80%A3%E7%B5%90"><span class="toc-number">1.1.</span> <span class="toc-text">github 連結</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%B8%80%E6%A6%82%E8%A6%81"><span class="toc-number">1.2.</span> <span class="toc-text">(一)	概要</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BA%8C%E9%81%8A%E6%88%B2%E7%8E%A9%E6%B3%95"><span class="toc-number">1.3.</span> <span class="toc-text">(二)	遊戲玩法</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%B8%89%E8%85%B3%E8%89%B2%E6%93%8D%E4%BD%9C_%E6%94%BB%E6%93%8A-%E8%A1%9D%E9%8B%92%E8%85%B3%E8%89%B2%E6%B1%A0"><span class="toc-number">1.4.</span> <span class="toc-text">(三)	腳色操作_攻擊、衝鋒 (腳色池)</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%9B%9B%E6%95%B5%E4%BA%BAai"><span class="toc-number">1.5.</span> <span class="toc-text">(四)	敵人 AI</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BA%94ui%E4%BB%8B%E9%9D%A2"><span class="toc-number">1.6.</span> <span class="toc-text">(五)	UI 介面</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%85%AD%E7%A8%8B%E5%BC%8F%E7%A2%BC_%E7%84%A1%E9%99%90%E6%B3%A2%E6%95%B8-buff%E7%B3%BB%E7%B5%B1-%E5%AD%98%E6%AA%94%E7%B3%BB%E7%B5%B1"><span class="toc-number">1.7.</span> <span class="toc-text">(六)	程式碼_無限波數、Buff 系統、存檔系統</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%B8%83%E5%AD%90%E5%BD%88%E5%8A%9F%E8%83%BD_%E8%BF%BD%E8%B9%A4%E5%BD%88"><span class="toc-number">1.8.</span> <span class="toc-text">(七)	子彈功能_追蹤彈</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%85%AB%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99"><span class="toc-number">1.9.</span> <span class="toc-text">(八) 參考資料</span></a></li></ol></li></ol></div><div class="related panel pjax" data-title="Related"><ul><li class="active"><a href="/program-develope/%E5%AE%8C%E6%95%B4%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E5%8F%8A%E8%87%AA%E8%A3%BD%E7%B0%A1%E6%98%93Buff%E7%B3%BB%E7%B5%B1-%E7%84%A1%E9%99%90%E7%B9%BC%E6%89%BF-%E9%96%8B%E7%99%BC%E7%B8%BD%E7%B5%90/" rel="bookmark" title="完整遊戲開發及自製簡易Buff系統-無限繼承-開發總結">完整遊戲開發及自製簡易Buff系統-無限繼承-開發總結</a></li></ul></div><div class="overview panel" data-title="Overview"><div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person"><img class="image" itemprop="image" alt="Z-hwA" data-src="/images/avatar.jpg"><p class="name" itemprop="name">Z-hwA</p><div class="description" itemprop="description">welcom here</div></div><nav class="state"><div class="item posts"><a href="/archives/"><span class="count">5</span> <span class="name">posts</span></a></div><div class="item categories"><a href="/categories/"><span class="count">3</span> <span class="name">categories</span></a></div></nav><div class="social"><span class="exturl item github" data-url="aHR0cHM6Ly9naXRodWIuY29tL3otaHdh" title="https:&#x2F;&#x2F;github.com&#x2F;z-hwa"><i class="ic i-github"></i></span> <span class="exturl item twitter" data-url="aHR0cHM6Ly90d2l0dGVyLmNvbS9fWl9od0E=" title="https:&#x2F;&#x2F;twitter.com&#x2F;_Z_hwA"><i class="ic i-twitter"></i></span> <span class="exturl item email" data-url="bWFpbHRvOmd1YW5nLnpod2FAZ21haWwuY29t" title="mailto:guang.zhwa@gmail.com"><i class="ic i-envelope"></i></span> <span class="exturl item facebook" data-url="aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2cuemh3YQ==" title="https:&#x2F;&#x2F;www.facebook.com&#x2F;g.zhwa"><i class="ic i-facebook"></i></span> <span class="exturl item youtube" data-url="aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQzRIQkFyekVPQ2NwRzlnU2cyYnFmekE=" title="https:&#x2F;&#x2F;www.youtube.com&#x2F;channel&#x2F;UC4HBArzEOCcpG9gSg2bqfzA"><i class="ic i-youtube"></i></span> <span class="exturl item instagram" data-url="aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2d1X3pod2E=" title="https:&#x2F;&#x2F;instagram.com&#x2F;gu_zhwa"><i class="ic i-instagram"></i></span></div><ul class="menu"><li class="item"><a href="/" rel="section"><i class="ic i-home"></i>Home</a></li><li class="item"><a href="/about/" rel="section"><i class="ic i-user"></i>About</a></li><li class="item dropdown"><a href="javascript:void(0);"><i class="ic i-feather"></i>Posts</a><ul class="submenu"><li class="item"><a href="/archives/" rel="section"><i class="ic i-list-alt"></i>Archives</a></li><li class="item"><a href="/categories/" rel="section"><i class="ic i-th"></i>Categories</a></li><li class="item"><a href="/tags/" rel="section"><i class="ic i-tags"></i>Tags</a></li></ul></li></ul></div></div></div><ul id="quick"><li class="prev pjax"></li><li class="up"><i class="ic i-arrow-up"></i></li><li class="down"><i class="ic i-arrow-down"></i></li><li class="next pjax"></li><li class="percent"></li></ul></div></div><div class="dimmer"></div></div></main><footer id="footer"><div class="inner"><div class="widgets"><div class="rpost pjax"><h2>Random Posts</h2><ul><li class="item"><div class="breadcrumb"></div><span><a href="/about/" title="about">about</a></span></li><li class="item"><div class="breadcrumb"><a href="/categories/ai/" title="In AI-about">AI-about</a></div><span><a href="/ai/Unity-ML-agents%20material/" title="Unity-ML-agents material">Unity-ML-agents material</a></span></li><li class="item"><div class="breadcrumb"><a href="/categories/ai/" title="In AI-about">AI-about</a></div><span><a href="/ai/Unity_ML-agents%20basic/" title="Unity_ML-agents basic">Unity_ML-agents basic</a></span></li><li class="item"><div class="breadcrumb"><a href="/categories/program-develope/" title="In Program-develope">Program-develope</a></div><span><a href="/program-develope/%E5%AE%8C%E6%95%B4%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E5%8F%8A%E8%87%AA%E8%A3%BD%E7%B0%A1%E6%98%93Buff%E7%B3%BB%E7%B5%B1-%E7%84%A1%E9%99%90%E7%B9%BC%E6%89%BF-%E9%96%8B%E7%99%BC%E7%B8%BD%E7%B5%90/" title="完整遊戲開發及自製簡易Buff系統-無限繼承-開發總結">完整遊戲開發及自製簡易Buff系統-無限繼承-開發總結</a></span></li><li class="item"><div class="breadcrumb"><a href="/categories/security/" title="In Security">Security</a></div><span><a href="/security/AIS3-projext-Stuxnet/" title="AIS3_projext-Stuxnet">AIS3_projext-Stuxnet</a></span></li></ul></div><div><h2>Recent Comments</h2><ul class="leancloud-recent-comment"></ul></div></div><div class="status"><div class="copyright">&copy; 2010 – <span itemprop="copyrightYear">2021</span> <span class="with-love"><i class="ic i-sakura rotate"></i> </span><span class="author" itemprop="copyrightHolder">Z-hwA @ Z-hwA</span></div><div class="count"><span class="post-meta-item-icon"><i class="ic i-chart-area"></i> </span><span title="Symbols count total">15k words</span> <span class="post-meta-divider">|</span> <span class="post-meta-item-icon"><i class="ic i-coffee"></i> </span><span title="Reading time total">14 mins.</span></div><div class="powered-by">Powered by <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span></div></div></div></footer></div><script data-config type="text/javascript">var LOCAL={path:"program-develope/完整遊戲開發及自製簡易Buff系統-無限繼承-開發總結/",favicon:{show:"（●´3｀●）Goooood",hide:"(´Д｀)Booooom"},search:{placeholder:"Search for Posts",empty:"We didn't find any results for the search: ${query}",stats:"${hits} results found in ${time} ms"},valine:!0,fancybox:!0,copyright:'Copied to clipboard successfully! <br> All articles in this blog are licensed under <i class="ic i-creative-commons"></i>BY-NC-SA.',ignores:[function(e){return e.includes("#")},function(e){return new RegExp(LOCAL.path+"$").test(e)}]}</script><script src="https://cdn.polyfill.io/v2/polyfill.js"></script><script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script><script src="/js/app.js?v=0.2.5"></script></body></html>
