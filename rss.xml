@@ -27,7 +27,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;github連結&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#github連結&#34;&gt;#&lt;/a&gt; github 連結&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3otaHdhL1VuaXR5X0dhbWVfQWJvdXQ=&#34;&gt;點這裡&lt;/span&gt;四、	A * 及射線檢測運用 - 激光與子彈&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3otaHdhL1VuaXR5X0dhbWVfQWJvdXQ=&#34;&gt;點這裡&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;一概要&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一概要&#34;&gt;#&lt;/a&gt; (一)	概要&lt;/h2&gt;
 &lt;p&gt;在開發這款遊戲前，我心想要製作一款射擊類遊戲，因此我研究了有關於射線的內容。此外，由於射擊類遊戲，我在地圖上新增了一些地形。因為這個原因，像是無限繼承中的簡單敵人 AI 就沒辦法做到追蹤玩家，而是會被地形卡住。所以，我搜尋了有關於敵人 AI 尋路的功能，最後決定使用 A * 來實作。&lt;/p&gt;
