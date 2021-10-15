@@ -26,7 +26,9 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;function&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#function&#34;&gt;#&lt;/a&gt; Function&lt;/h1&gt;
 &lt;h2 id=&#34;main&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#main&#34;&gt;#&lt;/a&gt; main:&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;匯入腳色模型 -&amp;gt; 匯入環境配佈 -&amp;gt; 切換腳色模型控制台 -&amp;gt; 匯入動作 -&amp;gt; 匯入臉部表情 -&amp;gt; 拖入音樂文件 -&amp;gt; 添加鏡頭配佈 -&amp;gt; 添加特效 -&amp;gt; 輸出&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;匯入腳色模型 -&amp;gt; 匯入環境配佈 -&amp;gt; 切換腳色模型控制台 -&amp;gt; 匯入動作 -&amp;gt; 匯入臉部表情 -&amp;gt; 拖入音樂文件 -&amp;gt; 添加鏡頭配佈 -&amp;gt; 添加特效 -&amp;gt; 輸出&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;basic操作完記得要rigester&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#basic操作完記得要rigester&#34;&gt;#&lt;/a&gt; Basic (操作完記得要 rigester):&lt;/h2&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://i.imgur.com/jx9JGR3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;interpolation-curve&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#interpolation-curve&#34;&gt;#&lt;/a&gt; Interpolation curve:&lt;/h3&gt;
